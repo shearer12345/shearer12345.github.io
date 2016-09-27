@@ -1,0 +1,8 @@
+= Shearer12345 splashpage
+
+
+== shearer12345 - splashpage
+
+powered by https://middlemanapp.com/[Middleman]
+
+image::middleman-logo.svg[]
