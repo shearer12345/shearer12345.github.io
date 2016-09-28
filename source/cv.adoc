@@ -1,0 +1,259 @@
+= Dr. John Shearer
+:date: September 2016
+:notitle:
+:imagesdir: images
+
+image::shearer/shearer_pro_001_micro.jpg[height=300]
+
+fullstack human being
+
+https://www.linkedin.com/in/shearer12345
+
+Technologies
+Human
+HCI
+Arts
+Events/Performance
+
+== Skills
+
+=== Programming Languages
+
+* C
+* {cpp}
+* Python
+* Javascript / CSS / HTML
+* Java
+* C#
+
+=== 3D
+
+* OpenGL, OpenGL ES, WebGL
+* Extensive 3D knowledge and background
+* model loading and manipulation
+* VR (head-mounted, cave-based)
+
+=== Games
+
+* Games Programming
+* Graphics
+* Game Engine Architectures
+
+=== TODO
+
+* Computer Vision (OpenCV)
+* CUDA / OpenCL
+* Kinect (1 & 2)
+
+=== Custom / multimodal Interfaces
+
+* (multi)touch
+* anoto pens
+* epitaph
+* TODO ???
+
+=== Web / Cloud
+
+* nodejs, python, asp, apache
+* aws, TODO?
+* databases (mySql, mongoDB)
+* server-side and client-side
+
+=== Mobile
+
+* Java
+* geolocation
+* database connected
+
+=== Platforms
+
+Linux (various)
+Windows
+
+
+=== Infrastructure
+
+* Bare metal deployment (theforeman)
+* Configuration Management (salt, puppet)
+* Security considerations
+
+
+=== Project Management
+
+* Versioning (git, svn)
+* Project planning (issue tracking, milestones)
+* Project communication
+* github/gitlab
+* logistics
+
+=== Events / Performance
+
+* lighting and sound
+* events planning / logistics / riders
+* hackathons / game jams
+  ** organising and facilitating
+* open days/interview days (Newcastle esp)
+  ** ""
+
+
+=== Physical Computing
+
+* Arduino/Teensduino
+* RaspberryPi
+* DMX / MIDI / OSC
+* Audio
+* Servo/Stepper Motors
+* Electronics
+
+=== Making/Fabrication
+
+* 3D printing (FDM, SLS, SLA)
+* Laser Cutting
+* Milling (woods, plaster, paint)
+* Hand and power tools
+* Lathes (non-CNC)
+
+=== My first CNC
+
+* TODO
+
+== User Experience / Design Skills
+
+* Experience-Centered Design
+* Participatory Design
+* Designing from Within
+* Curatorial Practice / Designing for reflection
+
+
+== Research Scientific Analytic Skills
+
+* Serious Games
+* Study Design
+* Mixed methods approaches
+* Strong qualitative and quantitative
+* Sense-making
+* Thematic Analysis
+* Data-driven, logging systems (multipleErrands)
+* Statistical analysis
+* Research in the Wild
+* Effective Research strategies
+* High quality writing
+
+
+== Human skills
+
+* excellent interpersonal skills
+* teaching and deep collaboration
+* extensisve network of HCI, Computer Science, Games, Arts people
+
+
+== Project Management/Leadership
+
+* Highly effective at all levels of projects
+  ** from low-level software and hardware builds
+  ** to high-level strategic discussion with various involved parties
+  ** highly capable at managing others and organising activities, equipment and finances
+TODO????
+
+=== Project commitment
+
+----
+John has consistently demonstrated his ability to complete and deliver high quality, professional work. I am confident when I ask him to become involved in a project that he will willingly take ownership and complete the task to a very high standard. This was recently demonstrated when John recovered a significantly over-schedule project – making good on our promise for to deliver an interactive artwork that was seriously in jeopardy. He takes great pride in his work and always demonstrates a lot of passion and energy to making a project successful.
+----
+
+=== Student project project management (UG, PG, and PhD)
+
+* enthusiastic engagement with all students - discussing their work; providing ideas and directions; helping edit outputs (text form, spoken form); and providing technical support and encouragement.
+
+
+
+== Projects
+
+* Epitaph
+* EyeResonator
+* NightinGallery
+* myGreatNorthRun
+* humanAquarium - http://humanaquarium.org
+* fibreChoppingBoard - https://openlab.ncl.ac.uk/things/fiberchoppingboard/
+
+== Events
+
+* myGreatNorthRun
+* BBC FreeThinking
+* humanAquarium - international tour
+* Bestival
+
+
+== Qualifications
+
+* PhD Computer Science - "Persuasive interactive non-verbal behaviour in embodied conversational agents."
+  ** Newcastle University, 2008
+* BEng Computer Science
+  ** York University, 2002
+
+== Employment history
+
+=== Senior Lecture (Games Computing)
+
+* Programmer Leader (Games Computing)
+* School of Computer Science
+* University of Lincoln
+* Lincoln
+
+* Athena Swan (inclusion/equality) committee
+
+=== Director (ExhibitForge)
+
+* micro-company
+* TODO
+
+=== Teaching Fellow (Games)
+
+* School of Computing Science
+* Newcastle University
+* Newcastle upon Tyne
+
+=== Research Associate
+
+* School of Computing Science
+* Newcastle University
+* Newcastle upon Tyne
+
+``
+== References
+
+* TODO
+
+
+
+== EXTRA
+
+* Punctual, reliable
+* +ve relationships
+* "John participates fully within this group and consistently adds his expertise to the myriad of projects that we run." - from Patrick Olivier Reference
+* Leadership
+
+
+== Content from PAtrick Olivier Reference
+
+----
+I have known John Shearer for around 10 years since he was an undergraduate at the University of York where he came to my attention as an active participant taking a leadership role in student recruitment during our departmental admissions days. John joined me as one of my first PhD students when I moved to Newcastle University in 2004. From the outset John has been strongly engaged with his own research while also being a vital resource in the effective functioning of my research group. In a research context, John brings a large breadth of expertise to the table. He is a highly capable computer scientist, but also has much wider skills of management and organisation,
+
+John has consistently demonstrated his ability to complete and deliver high quality, professional work. I am confident when I ask him to become involved in a project that he will willingly take ownership and complete the task to a very high standard. This was recently demonstrated when John recovered a significantly over-schedule project – making good on our promise for to deliver an interactive artwork that was seriously in jeopardy. He takes great pride in his work and always demonstrates a lot of passion and energy to making a project successful.
+
+This passion and energy is also reflected in his teaching. John is now a Teaching Fellow within the School of Computing Science. He teaches modules on Computer Graphics and Computer Games development at the undergraduate and graduate level as well as supervising students for their final year projects. This reference is mainly focussed on John's research abilities, but as far as teaching goes, John is highly motivated and committed to providing a positive learning experience for his students. On occasion I've asked John to cover some of my own teaching and he is not only an able substitute, but also a very willing one. Based within my group we have a large number of PhD students, at all levels, and John is an important part of their support network – both pastorally and academically. He provides support and expertise across the wide set of areas that my group covers and enthusiastically gets engaged with all the students – discussing their work; providing ideas
+
+and direction; helping edit outputs (text form, spoken form); and providing technical support and encouragement.
+
+Through his PhD on persuasive virtual characters John demonstrated a strong understanding of computer science and how the tools it provides can be used to enhance peoples' lives. He demonstrated effective research strategies and showed that he could perform good research and write effectively. In fact, his research summary of non-verbal behaviour in humans (and its appropriateness for virtual characters) is probably as big a contribution as the virtual character development and the empirical studies he performed as part of the PhD.
+
+Whether on his own research or on projects with others, John comes up with his own ideas independently and pursues them. In addition to his computer science capabilities John has strong physical construction (making) skills, electrical and electronics knowledge, and excellent problem-solving skills, all of which have contributed to enabling us to build devices and installations for out large number of our interdisciplinary projects. John is effective at all levels of our projects, from the low-level software and hardware builds, to the high-level strategic discussion with the various involved parties. He is highly capable at managing others and organising activities, equipment and finances.
+
+John has excellent interpersonal skills and is important to my groups' public engagement and community outreach agenda – being instrumental in the creation of several high-profile exhibitions. He was an instrumental part of a group of three who designed and built a large interactive installation themed around the 30th anniversary of the “Great North Run” - the world's most popular half marathon event with over 47,000 runners – based in the Great North Museum: Hancock. He has recently been a key part of an interactive performance project – humanaquarium – which has toured internationally and has been featured in several major media publication. The piece is currently being promoted by BBC as part of their upcoming Free-Thinking Festival. He also coordinates the demonstrations to undergraduate applicants to the School of Computing Science, as well as our demonstrations to other visitors – public, academic, industrial - to our research lab.
+
+I am very confident that John will be a great asset anywhere he chooses to work and as such I highly recommended him to you without reservation. Please do not hesitate to contact me for any further information required..
+
+Yours faithfully
+
+Patrick Olivier Professor of Human-Computer Interaction
+----
