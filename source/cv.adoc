@@ -6,6 +6,7 @@
 image::shearer/shearer_pro_001_micro.jpg[height=300]
 
 fullstack human being
+Interdisciplinary, collaborative, computer science in the wild
 
 https://www.linkedin.com/in/shearer12345
 
@@ -25,6 +26,7 @@ Events/Performance
 * Javascript / CSS / HTML
 * Java
 * C#
+* PHP
 
 === 3D
 
@@ -70,8 +72,12 @@ Events/Performance
 Linux (various)
 Windows
 
+=== Software Engineering
 
-=== Infrastructure
+* testing
+* continuous integration
+
+=== Infrastructure / System Administration
 
 * Bare metal deployment (theforeman)
 * Configuration Management (salt, puppet)
@@ -104,6 +110,7 @@ Windows
 * Audio
 * Servo/Stepper Motors
 * Electronics
+* Accelerometers
 
 === Making/Fabrication
 
@@ -119,21 +126,25 @@ Windows
 
 == User Experience / Design Skills
 
+* Interaction Design
 * Experience-Centered Design
 * Participatory Design
 * Designing from Within
 * Curatorial Practice / Designing for reflection
+* Human-Computer Interaction
 
 
 == Research Scientific Analytic Skills
 
 * Serious Games
 * Study Design
+* Human study design and deployment
 * Mixed methods approaches
 * Strong qualitative and quantitative
 * Sense-making
 * Thematic Analysis
 * Data-driven, logging systems (multipleErrands)
+  ** repeatable, audit-trail
 * Statistical analysis
 * Research in the Wild
 * Effective Research strategies
@@ -145,7 +156,7 @@ Windows
 * excellent interpersonal skills
 * teaching and deep collaboration
 * extensisve network of HCI, Computer Science, Games, Arts people
-
+* I work in a highly-collaborative and interdisciplinary way
 
 == Project Management/Leadership
 
@@ -165,6 +176,9 @@ John has consistently demonstrated his ability to complete and deliver high qual
 
 * enthusiastic engagement with all students - discussing their work; providing ideas and directions; helping edit outputs (text form, spoken form); and providing technical support and encouragement.
 
+=== Administration
+
+* TODO
 
 
 == Projects
@@ -191,6 +205,13 @@ John has consistently demonstrated his ability to complete and deliver high qual
 * BEng Computer Science
   ** York University, 2002
 
+== Peer-review responsibilities
+
+* Human Factors in Computing Systems (CHI) - reviewer (2011, 2012)
+* Designing Interactive Systems (DIS) - reviewer (2011)
+* Smart Graphics - Program committee and reviewer (2010, 2011)
+* Intelligent Virtual Agents (IVA) 2010 - reviewer (2009, 2010)
+
 == Employment history
 
 === Senior Lecture (Games Computing)
@@ -199,6 +220,9 @@ John has consistently demonstrated his ability to complete and deliver high qual
 * School of Computer Science
 * University of Lincoln
 * Lincoln
+Jan 2014 – present
+
+Research and teaching position. Research focused in general on “Creative play in public spaces”, leveraging games technologies. Teaching focused on games techniques and technologies – graphics, games engines, etc. Undergraduate and PhD supervision.
 
 * Athena Swan (inclusion/equality) committee
 
@@ -212,14 +236,109 @@ John has consistently demonstrated his ability to complete and deliver high qual
 * School of Computing Science
 * Newcastle University
 * Newcastle upon Tyne
+Sept 2008 – Jan 2014
+
+Teaching and module leader on final year undergraduate and masters modules in computer graphics, computer games development, artificial intelligence and software engineering.
 
 === Research Associate
 
 * School of Computing Science
 * Newcastle University
 * Newcastle upon Tyne
+Research for Unilever PLC – directly related to PhD research on persuasive virtual agents.
+Nov 2005 – Aug 2008
 
-``
+
+== Selected Publications
+
+* Taylor, R., Schofield, G., Shearer, J., Boulanger, P., Wright, P., Olivier, P. (2014) Nightingallery: Theatrical Framing and Orchestration in Participatory Performance In Personal and Ubiquitous Computing.
+
+* Maslamani, J., Windeatt, S., Olivier, P., Heslop, P., Kharrufa, A., Shearer, J., Balaam, M. (2012) Collaborative Strategic Reading on Multi-Touch and Multi-User Digital Tabletop Displays In CALL: Using, Learning, Knowing, EUROCALL Conference, Gothenburg, Sweden, p. 211-216
+
+* Bartindale, T., Clarke, R., Shearer, J., Balaam M., Wright, P., Olivier, P. (2011) Bridging the gap: implementing interaction through multi-user design In Conference on Human Factors in Computing Systems (CHI 2011), Vancouver, BC, Canada, p. 2071-2076
+
+* Taylor, R., Schofield, G., Shearer, J., Boulanger, P., Wallace, J., Olivier, P. (2011) Designing from within: humanaquarium In Proceedings of Conference on Human Factors in Computing Systems (CHI 2011), Vancouver, BC, Canada.
+
+* Taylor, R., Schofield, G., Shearer, J., Wallace, J., Wright, P., Boulanger, P., Olivier, P. (2011) humanaquarium: exploring audience, participation, and interaction In Conference on Human Factors in Computing Systems (CHI 2011), Vancouver, BC, Canada, p. 1117-1122
+
+* Taylor, R., Schofield, G., Shearer, J., Wallace, J., Wright, P., Boulanger, P., Olivier, P. (2011) Composing for the Interactive Medium In Proceedings of the 13th International Conference on Virtual Reality, Laval, France, 2011
+
+* Shearer, J., Heslop, P., Olivier, P., & Boni, M. D. (2010) Non-Verbal Behaviour for Believable Synthetic Agents. In Interdisciplinary Journal of Artificial Intelligence and the Simulation of Behaviour (AISB) 2.1, 2010, p. 3-20.
+
+* Taylor, R., Schofield, G., Shearer, J., Boulanger, P., Wallace, J., Olivier, P. (2010) humanaquarium: A Participatory Performance System. In Proceedings of the 2010 Conference on New Interfaces for Musical Expression (NIME 2010), Sydney, Australia, pp. 440-443
+
+* Taylor, R., Schofield, G., Shearer, J., Boulanger, P., Wallace, J., Olivier, P. (2010) Phantasmagoria: Composing Interactive Content for the humanaquarium. In Proceedings of the 10th International Symposium on Smart Graphics (SG 2010), Banff, Canada, pp. 269-272.
+
+* Shearer, J., Olivier, P., Boni, M. D., & Hurling, R. (2007). Exploring Persuasive Potential of Embodied Conversational Agents Utilizing Synthetic Embodied Conversational Agents. Proceedings of Persuasive Technology 2007, Stanford, CA, USA, p. 210-213.
+
+* Shearer, J., Olivier, P., Heslop, P., & Boni, M. D. (2006). Requirements of non-verbal communication in believable synthetic agents. Proceedings of AISB’06: Adaptation in Artificial and Biological Systems, Bristol, UK, p62-69.
+
+== Events
+
+* TODO EyeResonator
+
+* Shearer, J. MusicRadar.
+
+* Bestival 2012 – Tomorrow's World Arena .Isle of Wight, UK. September 5-8, 2012.
+
+* Taylor, R., Schofield, G., Shearer, J. Nightingallery.
+
+* BBC Free Thinking Festival 2011, Sage Gateshead, UK. November 4-6, 2011.
+
+* Bestival 2011- Tomorrow's World Arena .Isle of Wight, UK. September 8-11, 2011.
+
+* Jam 46, Culture Lab – Newcastle, Newcastle upon Tyne, UK. August 18. 2011.
+
+* Taylor, R., Schofield, G., Shearer, J. Humanaquarium.
+
+* Laval Virtual 2011, Laval, France. April 6-10, 2011.
+
+* Jam 45, Culture Lab – Newcastle, Newcastle upon Tyne, UK. December 2. 2010.
+
+* Interactive Tabletops and Surfaces 2010, Saarbrücken, Germany. November 7-10, 2010.
+
+* BBC Free Thinking Festival 2010, Sage Gateshead, UK. November 5-7, 2010.
+
+* interspace2010, Banff Centre, Banff, Canada. June 25, 2010.
+
+* Webdesign International Festival, Limoges, France. June 3-5, 2010.
+
+* Maker Faire UK, Newcastle upon Tyne, UK. March 13-14, 2010.
+
+* Centre for Life, Newcastle upon Tyne, UK. November 14-15, 2009.
+
+* Culture Lab Relaunch, Newcastle upon Tyne, UK. October 22, 2009.
+
+* Dove Marine Laboratory, Newcastle upon Tyne, UK. October 14, 2009.
+
+* Public Announcement, Dance City, Newcastle upon Tyne, UK. October 2, 2009.
+
+* Bartindale, T., Shearer, J., Clarke, R., MyGreatNorthRun.
+
+* Interactive Tabletops and Surfaces 2010, Saarbrücken, Germany. November 7-10, 2010.
+
+* Great North Museum: Hancock, Newcastle upon Tyne, UK. July 17 to October 17, 2010.
+
+* Shearer, J., Schofield, T., Codha Design Ltd. Binary-furniture.
+
+* Baltic Centre for Contemporary Art, Gateshead, UK. October 22-24, 2010.
+
+* Allen, J., Clarke, R., Wajda, K., Shearer, J., Ladha, K. Sundroids.
+
+* Harehope quarry, Bishop Auckland, UK. October 21-21, 2010.
+
+* Chen, K. L., Rojas Viquez, A., Shearer, J. RM840.
+
+* Render 10, Curtis Mayfield House, Newcastle upon Tyne, UK. September 23-27, 2010.
+
+* Shearer, J., Galani, A. Borrowers. Nuffin like a puffin,
+
+* Seven Stories, Newcastle upon Tyne, UK. July 2010 – June 2011.
+
+* Shearer, J., Olivier, P.,The Virtual Human.
+
+* Newcastle Science Festival, Informatics Research Institute, Newcastle upon Tyne, UK. March 12 & 19, 2006
+
 == References
 
 * TODO
@@ -233,6 +352,22 @@ John has consistently demonstrated his ability to complete and deliver high qual
 * "John participates fully within this group and consistently adds his expertise to the myriad of projects that we run." - from Patrick Olivier Reference
 * Leadership
 
+== Studnet quotes
+
+----
+Below, I provide a small set examples of comments from students with respect to my teaching, in order to
+illustrate "excellently-evaluated" teaching:
+- "Best CS lecturer at Newcastle."
+- "When your lecturer can identify the single problem in your code (that you've struggled with for 10 hours)
+in a matter of seconds, that's nothing short of inspirational."
+- "Mr. [sic] Shearer was an excellent lecturer - easily approachable, audible, passionate and well-
+informed."
+- "John Shearer is an extremely helpful lecturer who will go out of his way to help his students' learning."
+- "John Shearer is a personal hero of mine. Approachable and friendly with a killer attitude. John's
+personality is incredibly likable and fun, he also makes students feel welcome and treats them as equals, a
+trait missing in many academics. I would give John 5 stars out of 4. That's one whole extra star above the
+amount allotted for distribution, he's just that good." 
+----
 
 == Content from PAtrick Olivier Reference
 
