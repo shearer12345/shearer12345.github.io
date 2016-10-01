@@ -1,0 +1,9 @@
+== Professional Experience
+
+include::jobs/lincolnUni.adoc[]
+
+include::jobs/exhibitForge.adoc[]
+
+include::jobs/newcastleUniTeachingFellow.adoc[]
+
+include::jobs/newcastleUniResearchAssociate.adoc[]

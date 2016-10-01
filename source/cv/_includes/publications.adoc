@@ -1,0 +1,49 @@
+== Publications
+
+*Shearer, J.*, Swinburne, S., & Dickinson, P. (2015). Droplets: geo-located audio as a social media platform. In Proceedings of the 2015 British HCI Conference (pp. 293–294). ACM.
+
+Clarke, R., Vines, J., Wright, P., Bartindale, T., *Shearer, J.*, McCarthy, J., & Olivier, P. (2015). MyRun: balancing design for reflection, recounting and openness in a museum-based participatory platform. In Proceedings of the 2015 British HCI Conference (pp. 212–221). ACM.
+
+Zics, B., *Shearer, J.*, Mikl'os, P., & others. (2015). Eye resonator at the power plant.
+
+Taylor, R., Schofield, G., *Shearer, J.*, Wright, P., Boulanger, P., & Olivier, P. (2014). Nightingallery: theatrical framing and orchestration in participatory performance. Personal and Ubiquitous Computing, 18(7), 1583–1600.
+
+Zics, B., *Shearer, J.*, Wood, G., Parkinson, A., & others. (2014). Eye resonator.
+
+Maslamani, J. A., Windeatt, S., Olivier, P., Heslop, P., Kharrufa, A., *Shearer, J.*, & Balaam, M. (2012). Collaborative strategic reading on multi-touch and multi-user digital tabletop displays. In EUROCALL Conference (p. 211).
+
+Pham, C., Hooper, C., Lindsay, S., Jackson, D., *Shearer, J.*, Wagner, J., Olivier, P. (2012). The Ambient Kitchen: A Pervasive Sensing Environment for Situated Services. In Demonstration in the Designing Interactive Systems Conference (DIS 2012). ACM, Newcastle Upon Tyne.
+
+Bartindale, T., Clarke, R., *Shearer, J.*, Balaam, M., Wright, P., & Olivier, P. (2011). Bridging the gap: implementing interaction through multi-user design. In CHI'11 Extended Abstracts on Human Factors in Computing Systems (pp. 2071–2076). ACM.
+
+Taylor, R., Schofield, G., *Shearer, J.*, Boulanger, P., Wallace, J., Wright, P., & Olivier, P. (2011). Composing for the interactive medium. In the Proceedings of the 13th International Conference on Virtual Reality, Laval.
+
+Taylor, R., Schofield, G., *Shearer, J.*, Wallace, J., Wright, P., Boulanger, P., & Olivier, P. (2011). Designing from within: humanaquarium. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (pp. 1855–1864). ACM.
+
+Taylor, R., Schofield, G., *Shearer, J.*, Wallace, J., Wright, P., Boulanger, P., & Olivier, P. (2011). humanaquarium: exploring audience, participation, and interaction. In CHI'11 Extended Abstracts on Human Factors in Computing Systems (pp. 1117–1122). ACM.
+
+*Shearer, J.*, Heslop, P., Olivier, P., De Boni, M., & others. (2010). Non-verbal behaviour for believable synthetic agents. AISB Journal, 2(1), 3–20.
+
+Taylor, R., Schofield, G., *Shearer, J.*, Boulanger, P., Wallace, J., Olivier, P., & others. (2010). humanaquarium: a participatory performance system. New Interfaces for Musical Expression.
+
+Taylor, R., Schofield, G., *Shearer, J.*, Boulanger, P., Wallace, J., & Olivier, P. (2010). Phantasmagoria: composing interactive content for the humanaquarium. In International Symposium on Smart Graphics (pp. 269–272). Springer Berlin Heidelberg.
+
+*Shearer, J.* (2009). Persuasive interactive non-verbal behaviour in embodied conversational agents.
+
+*Shearer, J.*, Olivier, P., De Boni, M., & others. (2007). On the simulation of interactive non-verbal behaviour in virtual humans. AISB'07: Artificial and Ambient Intelligence, 169–173.
+
+*Shearer, J.*, Olivier, P., De Boni, M., & Hurling, R. (2007). Exploring persuasive potential of embodied conversational agents utilizing synthetic embodied conversational agents. In International Conference on Persuasive Technology (pp. 210–213). Springer Berlin Heidelberg.
+
+*Shearer, J.*, Olivier, P., Heslop, P., De Boni, M., & others. (2006). Requirements of non-verbal communication in believable synthetic agents. In Proceedings of the AISB Symposium on Narrative AI and Games, 5th-6th April (pp. 62–69).
+
+
+
+
+
+
+
+
+
+
+
+Heslop, P., *Shearer, J.*, Olivier, P., & De Boni, M. (2006). Synthetic Character Fidelity through Non-Verbal Behaviour in Computer Games. In Proceedings of iDiG International Digital Games Conference (pp. 123–132).

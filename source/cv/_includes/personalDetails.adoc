@@ -1,0 +1,10 @@
+== Personal details
+
+`Name:` {author} +
+`Location:` Lincoln, UK +
+`Email:` {email} +
+`Phone:` {phone} +
+`Citizenship:` UK and USA (dual citizen) +
+`Github:` {link-github}[icon:github[link={link-github}, role="external", window="_blank", alt="@shearer12345"]] +
+`Twitter:` {link-twitter}[icon:twitter[link={link-twitter}, role="external", window="_blank", alt="@shearer12345_j"]] +
+`LinkedIn:` {link-linkedin}[icon:linkedin[link={link-linkedin}, role="external", window="_blank", alt="shearer12345"]] +

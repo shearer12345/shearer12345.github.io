@@ -1,0 +1,6 @@
+=== Research Associate at Newcastle University
+
+icon:calendar[title="Period"] _November 2005 to August 2008_ +
+icon:group[title="Employee"] {link-newcastleUni}[Newcastle University , role="external", window="_blank"] +
+
+* Research for Unilever PLC on Persuasive Virtual Agents to support health life styles - directly related to PhD research.

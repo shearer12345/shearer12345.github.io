@@ -1,0 +1,31 @@
+// Refs
+//TODO(shearer):link-resume: http://shearer12345.github.io/cv
+:link-github: https://github.com/shearer12345
+:link-twitter: https://twitter.com/shearer12345_j
+:link-linkedin: https://www.linkedin.com/in/shearer12345
+
+
+//lincoln
+:link-lincoln_staff: http://staff.lincoln.ac.uk/jshearer
+:link-lincolnUni: http://lincoln.ac.uk
+:link-lincolnUniGamesComputing: http://www.lincoln.ac.uk/home/course/cgpcmpub
+:link-lincolnUniIntLab: http://intlab.lincoln.ac.uk
+
+//newcastle
+:link-newcastleUni: http://newcastle.ac.uk
+
+//projects
+
+//writing
+:link-thesis: http://hdl.handle.net/10443/791
+
+//other links
+
+//based on https://raw.githubusercontent.com/rmpestano/resume/master/src/docs/asciidoc/index.adoc
+//ifeval::["{backend}" == "html5"]
+//icon:file-pdf-o[] Read this cv/resume {link-resume}/index.pdf[in PDF here, role="external", window="_blank"]. +
+//endif::[]
+
+//ifeval::["{backend}" == "pdf"]
+//icon:html5[] Read this cv/resume {link-resume}/index.html[in HTML5 here, role="external", window="_blank"]. +
+//endif::[]

@@ -1,0 +1,12 @@
+== Education
+
+=== PhD Computer Science, Newcastle University, UK
+
+icon:calendar[title="Period"] _2004-2008_ - *PhD (Computer Science)* +
+
+* {link-thesis}[Thesis: Persuasive interactive non-verbal behaviour in embodied conversational agents, role="external", window="_blank"] +
+  ** How can we develop more engaging, persuasive, and fun interfaces using on-screen characters
+
+=== BEng Computer Science (2:1), York University, UK
+
+icon:calendar[title="Period"] _1999-2002_ - *BEng (Computer Science)* +

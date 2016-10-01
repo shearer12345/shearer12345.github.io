@@ -1,0 +1,18 @@
+=== Teaching Fellow (Games Engineering) at Newcastle University
+
+icon:calendar[title="Period"] _September 2008 to January 2014_ +
+icon:group[title="Employee"] {link-newcastleUni}[Newcastle University , role="external", window="_blank"] +
+
+* co-supervising post-graduate research students (PhD and MSc)
+* Module leader and teaching on final year undergraduate and MSc modules in Computer Graphics, Games Development, Artificial Intelligence, User Interface Techniques and Technologies and Software Engineering.
+* Support students on taught programmes in varied roles
+* TODO
+
+==== Projects involved with
+
+* UG/MSc Projects (selected)
+* Research Projects
+
+==== Used technologies
+
+* TODO

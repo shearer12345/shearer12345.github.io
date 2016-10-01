@@ -1,0 +1,30 @@
+== Research Skills
+
+=== User Experience / Design Skills
+
+* Interaction Design
+* Experience-Centered Design
+* Participatory Design
+* Designing from Within
+* Curatorial Practice / Designing for reflection
+* Human-Computer Interaction
+
+=== Writing / Language Skills
+
+TODO??
+
+=== Research Scientific Analytic Skills
+
+* Serious Games
+* Study Design
+* Human study design and deployment
+* Mixed methods approaches
+* Strong qualitative and quantitative
+* Sense-making
+* Thematic Analysis
+* Data-driven, logging systems (multipleErrands)
+  ** repeatable, audit-trail
+* Statistical analysis
+* Research in the Wild
+* Effective Research strategies
+* High quality writing
