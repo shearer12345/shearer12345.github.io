@@ -1,6 +1,6 @@
 :author: John Shearer
 :date: September 2016
-:doctitle: Curriculum Vitae: {author} BEng PhD
+:doctitle: Curriculum Vitae: {author} PhD BEng
 ifdef::backend-pdf[:notitle:]
 ifdef::backend-pdf[]
 [discrete]
@@ -24,135 +24,52 @@ endif::[]
 
 include::{includedir}/links.adoc[]
 
-image::shearer/shearer_pro_001_small.jpg[pdfwidth=20%, width=200, align=center]
-
 [discrete]
-== *A fullstack human being:*
-
-****
-
-I am a interdisciplinary, collaborative, maker-builder-developer-researcher. +
-
-I work with people from all backgrounds to make, explore and understand meaningful experiences. I use a myriad of technologies to support this process, whilst keeping the human front and center.
-
-I have a PhD (Newcastle, UK) and BEng (York, UK) in Computer Science.
-
-My research walks between Computer Science and the Arts. My works have resulted in both academic papers and a large number of public performances and installations, both in the UK and internationally.
-
-I can’t help but get down and get his hands dirty building in the real world - from art installations and physical computing devices; to custom leather work and just about anything that he can get away with.
-
-I am passionate about working with people and Open Source software/hardware.
-
-I have extremely strong problem solving skills, excellent leadership and project management experience, and strong background in delivering effective, novel projects and events.
-
-****
-
-== Main Interest
-
-Technologies
-Human
-Arts
-Play / Games
-Human-Computer Interaction
-Events/Performance
-
-toc::[]
+== *A fullstack human being*
 
 include::{includedir}/personalDetails.adoc[]
 
-include::{includedir}/skillsLeadership.adoc[]
+****
+
+TODO - more letter of introduction. add content aligning with target
+
+I am a interdisciplinary, collaborative, maker-builder-developer-researcher. +
+
+I work with people from all backgrounds to make, explore and understand meaningful experiences. I use a myriad of technologies to support this process, whilst keeping the human front and center. +
+
+My excellent communication skills afford highly effective colloborative projects. +
+
+My research walks between Computer Science and the Arts. My works have resulted in both academic papers and a large number of public performances and installations, both in the UK and internationally. +
+
+I can’t help but get down and get my hands dirty building in the real world - from art installations and physical computing devices; to custom leather work and just about anything that I can get away with. +
+
+I am passionate about working with people and Open Source software/hardware. Broad, strong technical knowledge +
+
+I have extremely strong, creative problem solving skills, excellent leadership and project management experience, and strong background in delivering effective, novel projects and events. +
+
+
+
+I have a PhD (Newcastle, UK) and BEng (York, UK) in Computer Science.
+
+****
+
+toc::[]
 
 <<<
-
 include::{includedir}/professionalExperience.adoc[]
-
-include::{includedir}/skillsResearch.adoc[]
 
 <<<
 
 include::{includedir}/skillsTechnical.adoc[]
 
-include::{includedir}/projects.adoc[]
+include::{includedir}/skillsResearch.adoc[]
+
+<<<
+
+include::{includedir}/projectsEventsAndPerformances.adoc[]
 
 <<<
 
 include::{includedir}/publications.adoc[]
 
-<<<
-
-include::{includedir}/eventsAndPerformances.adoc[]
-
-<<<
-
 include::{includedir}/education.adoc[]
-
-== References
-
-* References are available on request
-
-<<<
-
-== TODO
-
-=== My first CNC
-
-* TODO
-
-=== Project commitment
-
-----
-John has consistently demonstrated his ability to complete and deliver high quality, professional work. I am confident when I ask him to become involved in a project that he will willingly take ownership and complete the task to a very high standard. This was recently demonstrated when John recovered a significantly over-schedule project – making good on our promise for to deliver an interactive artwork that was seriously in jeopardy. He takes great pride in his work and always demonstrates a lot of passion and energy to making a project successful.
-----
-
-=== Student project project management (UG, PG, and PhD)
-
-* enthusiastic engagement with all students - discussing their work; providing ideas and directions; helping edit outputs (text form, spoken form); and providing technical support and encouragement.
-== EXTRA
-
-* Punctual, reliable
-* +ve relationships
-* "John participates fully within this group and consistently adds his expertise to the myriad of projects that we run." - from Patrick Olivier Reference
-* Leadership
-
-== Studnet quotes
-
-----
-Below, I provide a small set examples of comments from students with respect to my teaching, in order to
-illustrate "excellently-evaluated" teaching:
-- "Best CS lecturer at Newcastle."
-- "When your lecturer can identify the single problem in your code (that you've struggled with for 10 hours)
-in a matter of seconds, that's nothing short of inspirational."
-- "Mr. [sic] Shearer was an excellent lecturer - easily approachable, audible, passionate and well-
-informed."
-- "John Shearer is an extremely helpful lecturer who will go out of his way to help his students' learning."
-- "John Shearer is a personal hero of mine. Approachable and friendly with a killer attitude. John's
-personality is incredibly likable and fun, he also makes students feel welcome and treats them as equals, a
-trait missing in many academics. I would give John 5 stars out of 4. That's one whole extra star above the
-amount allotted for distribution, he's just that good."
-----
-
-== Content from PAtrick Olivier Reference
-
-----
-I have known John Shearer for around 10 years since he was an undergraduate at the University of York where he came to my attention as an active participant taking a leadership role in student recruitment during our departmental admissions days. John joined me as one of my first PhD students when I moved to Newcastle University in 2004. From the outset John has been strongly engaged with his own research while also being a vital resource in the effective functioning of my research group. In a research context, John brings a large breadth of expertise to the table. He is a highly capable computer scientist, but also has much wider skills of management and organisation,
-
-John has consistently demonstrated his ability to complete and deliver high quality, professional work. I am confident when I ask him to become involved in a project that he will willingly take ownership and complete the task to a very high standard. This was recently demonstrated when John recovered a significantly over-schedule project – making good on our promise for to deliver an interactive artwork that was seriously in jeopardy. He takes great pride in his work and always demonstrates a lot of passion and energy to making a project successful.
-
-This passion and energy is also reflected in his teaching. John is now a Teaching Fellow within the School of Computing Science. He teaches modules on Computer Graphics and Computer Games development at the undergraduate and graduate level as well as supervising students for their final year projects. This reference is mainly focussed on John's research abilities, but as far as teaching goes, John is highly motivated and committed to providing a positive learning experience for his students. On occasion I've asked John to cover some of my own teaching and he is not only an able substitute, but also a very willing one. Based within my group we have a large number of PhD students, at all levels, and John is an important part of their support network – both pastorally and academically. He provides support and expertise across the wide set of areas that my group covers and enthusiastically gets engaged with all the students – discussing their work; providing ideas
-
-and direction; helping edit outputs (text form, spoken form); and providing technical support and encouragement.
-
-Through his PhD on persuasive virtual characters John demonstrated a strong understanding of computer science and how the tools it provides can be used to enhance peoples' lives. He demonstrated effective research strategies and showed that he could perform good research and write effectively. In fact, his research summary of non-verbal behaviour in humans (and its appropriateness for virtual characters) is probably as big a contribution as the virtual character development and the empirical studies he performed as part of the PhD.
-
-Whether on his own research or on projects with others, John comes up with his own ideas independently and pursues them. In addition to his computer science capabilities John has strong physical construction (making) skills, electrical and electronics knowledge, and excellent problem-solving skills, all of which have contributed to enabling us to build devices and installations for out large number of our interdisciplinary projects. John is effective at all levels of our projects, from the low-level software and hardware builds, to the high-level strategic discussion with the various involved parties. He is highly capable at managing others and organising activities, equipment and finances.
-
-John has excellent interpersonal skills and is important to my groups' public engagement and community outreach agenda – being instrumental in the creation of several high-profile exhibitions. He was an instrumental part of a group of three who designed and built a large interactive installation themed around the 30th anniversary of the “Great North Run” - the world's most popular half marathon event with over 47,000 runners – based in the Great North Museum: Hancock. He has recently been a key part of an interactive performance project – humanaquarium – which has toured internationally and has been featured in several major media publication. The piece is currently being promoted by BBC as part of their upcoming Free-Thinking Festival. He also coordinates the demonstrations to undergraduate applicants to the School of Computing Science, as well as our demonstrations to other visitors – public, academic, industrial - to our research lab.
-
-I am very confident that John will be a great asset anywhere he chooses to work and as such I highly recommended him to you without reservation. Please do not hesitate to contact me for any further information required..
-
-Yours faithfully
-
-Patrick Olivier Professor of Human-Computer Interaction
-----
-
-strong ownership over products

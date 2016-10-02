@@ -13,6 +13,8 @@
 
 //newcastle
 :link-newcastleUni: http://newcastle.ac.uk
+:link-newcastleUniOpenLab: https://openlab.ncl.ac.uk/
+:link-newcastleUniCultureLab: http://www.ncl.ac.uk/culturelab/
 
 //projects
 

@@ -1,0 +1,109 @@
+== Projects, Events and Performances
+
+=== Epitaph
+
+Mobile App allowing listening to anectodal stories from peoples' lives co-located with their graves
+
+icon:asterisk[] Project Manager (Joint), Technical Lead, Interaction Designer
+
+icon:group[] Collaboration with Sue Swinburne
+
+=== EyeResonator
+
+
+icon:asterisk[] Technical Lead, Logistics, Interaction Designer
+
+icon:group[] Collaboration with Brigitta Zics, Gavin Wood, Adam Parkinson
+
+icon:calendar[title="Period"] Eye Resonator At The Power Plant, Kelenföld Power Plant Station, Budapest. Curated by Peternák Miklós. _April 30 - May 3, 2015_ +
+icon:calendar[title="Period"] Kinetica Art Fair, Old Truman Brewery. _October 16-19, 2014_ +
+icon:calendar[title="Period"] Fictional interludes I, Culture Lab, Newcastle University. Curated by Gabi Arrigoni. _June 3-5, 2014_ +
+
+=== Music Rader
+
+icon:asterisk[] Technical Lead, Interaction Designer
+
+icon:calendar[title="Period"] Bestival 2012 – Tomorrow's World Arena .Isle of Wight, UK. _September 5-8, 2012_ +
+
+=== NightinGallery
+
+icon:asterisk[] Technical Lead, Interaction Designer, HCI Researcher
+
+icon:group[] Collaboration with Robyn Taylor and Guy Schofield
+
+icon:calendar[title="Period"] BBC Free Thinking Festival 2011, Sage Gateshead, UK. _November 4-6, 2011_ +
+icon:calendar[title="Period"] Bestival 2011- Tomorrow's World Arena .Isle of Wight, UK. _September 8-11, 2011_ +
+icon:calendar[title="Period"] Jam 46, Culture Lab – Newcastle, Newcastle upon Tyne, UK. _August 18. 2011_ +
+
+=== HumanAquarium
+
+icon:asterisk[] Technical Lead, Interaction Designer, HCI Researcher
+
+icon:group[] Collaboration with Robyn Taylor and Guy Schofield
+
+icon:calendar[title="Period"] Laval Virtual 2011, Laval, France. _April 6-10, 2011_ +
+icon:calendar[title="Period"] Jam 45, Culture Lab – Newcastle, Newcastle upon Tyne, UK. _December 2. 2010_ +
+icon:calendar[title="Period"] Interactive Tabletops and Surfaces 2010, Saarbrücken, Germany. _November 7-10, 2010_ +
+icon:calendar[title="Period"] BBC Free Thinking Festival 2010, Sage Gateshead, UK. _November 5-7, 2010_ +
+icon:calendar[title="Period"] interspace2010, Banff Centre, Banff, Canada. _June 25, 2010_ +
+icon:calendar[title="Period"] Webdesign International Festival, Limoges, France. _June 3-5, 2010_ +
+icon:calendar[title="Period"] Maker Faire UK, Newcastle upon Tyne, UK. _March 13-14, 2010_ +
+icon:calendar[title="Period"] Centre for Life, Newcastle upon Tyne, UK. _November 14-15, 2009_ +
+icon:calendar[title="Period"] Culture Lab Relaunch, Newcastle upon Tyne, UK. _October 22, 2009_ +
+icon:calendar[title="Period"] Dove Marine Laboratory, Newcastle upon Tyne, UK. _October 14, 2009_ +
+icon:calendar[title="Period"] Public Announcement, Dance City, Newcastle upon Tyne, UK. _October 2, 2009_ +
+
+=== MyGreatNorthRun
+
+icon:asterisk[] Technical Lead (joint), Interaction Designer, HCI Researcher
+
+icon:group[] Collaboration with Tom Bartindale, Rachel Clarke
+
+icon:calendar[title="Period"] Interactive Tabletops and Surfaces 2010, Saarbrücken, Germany. _November 7-10, 2010_ +
+icon:calendar[title="Period"] *3 month installation* - Great North Museum: Hancock, Newcastle upon Tyne, UK. _July 17 - October 17, 2010_ +
+
+=== Fibre Chopping Board -
+
+A custom-made chopping board augmented with (embedded) fibre optics for on-surface light sensing, a camera, and a microphone.
+
+icon:asterisk[] Sensor Researcher
+
+icon:group[] Collaboration with Cuong Pham.
+
+* TODO - https://openlab.ncl.ac.uk/things/fiberchoppingboard/ +
+
+=== Binary-furniture
+
+icon:asterisk[] Technical Lead (joint), Interaction Designer
+
+icon:group[] Collaboration with Tom Schofield, Bettina Nissen and Codha Design Ltd.
+
+icon:calendar[title="Period"] Baltic Centre for Contemporary Art, Gateshead, UK. _October 22-24, 2010_ +
+
+=== Sundroids
+
+icon:asterisk[] Technical Lead (joint), Interaction Designer
+
+icon:group[] Collaboration with Jamie Allen, Rachel Clarke, Kamilla Wajda, Karim Ladha
+
+icon:calendar[title="Period"] Harehope quarry, Bishop Auckland, UK. _October 21-21, 2010_ +
+
+=== RM840
+
+icon:group[] Collaboration with Kole Chen, Adriana Rojas Viquez
+
+icon:calendar[title="Period"] Render 10, Curtis Mayfield House, Newcastle upon Tyne, UK. _September 23-27, 2010_ +
+
+=== Borrowers @ Nuffin like a puffin
+
+icon:asterisk[] Late-Project Recovery, Technical Lead, Interaction Designer
+
+icon:group[] Collaborations with Areti Galani
+
+icon:calendar[title="Period"] Seven Stories, Newcastle upon Tyne, UK. _July 2010 – June 2011_ +
+
+=== The Virtual Human
+
+icon:asterisk[] Project management, Technical Lead, Curator
+
+icon:calendar[title="Period"] Newcastle Science Festival, Informatics Research Institute, Newcastle upon Tyne, UK. _March 12 & 19, 2006_ +

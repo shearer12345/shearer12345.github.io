@@ -1,30 +1,7 @@
-== Research Skills
+== User Experience / HCI / Design Skills
 
-=== User Experience / Design Skills
+Design approaches:: Interaction Design, Experience-Centered Design, User-Centered Design, Participatory Design, Designing from Within, Designing for reflection
 
-* Interaction Design
-* Experience-Centered Design
-* Participatory Design
-* Designing from Within
-* Curatorial Practice / Designing for reflection
-* Human-Computer Interaction
+Research Methodologies:: Research in the Wild (in the Wild of humanity) / Ecologically-valid studies, Research through Design, Empirical studies, Exploratory studies, Ethnography, Eye-tracking Analysis, Questionnaire Design, Auto-metricated Methods, Experimental Design
 
-=== Writing / Language Skills
-
-TODO??
-
-=== Research Scientific Analytic Skills
-
-* Serious Games
-* Study Design
-* Human study design and deployment
-* Mixed methods approaches
-* Strong qualitative and quantitative
-* Sense-making
-* Thematic Analysis
-* Data-driven, logging systems (multipleErrands)
-  ** repeatable, audit-trail
-* Statistical analysis
-* Research in the Wild
-* Effective Research strategies
-* High quality writing
+Analysis Techniques:: Statistical analysis, Thematic Analysis, Grounded, Sentiment Analysis

@@ -4,7 +4,7 @@ Languages and Specifications:: C, {cpp}, Python, Javascript,  Java, C#/.NET, R, 
 
 Markup languages etc:: (X)HTML, CSS, XML, Json, Asciidoc, Markdown
 
-Operating Systems:: Linux (Ubuntu Server, Ubuntu, Xubuntu, Fedora, Raspbian), Windows,
+Operating Systems:: icon:linux[] Linux (Ubuntu Server, Ubuntu, Xubuntu, Fedora, Raspbian), icon:windows[] Windows
 
 Databases:: MySQL, Postgres, MongoDB, SQLite
 
@@ -18,7 +18,7 @@ Making/Fabrication:: 3D printing (FDM, SLS, SLA, Laser Cuttin, Milling (woods, p
 
 Custom / multimodal Interfaces:: Kinect (1 & 2), (multi)touch, anoto pens, geolocation
 
-Infrastructure / System Administration:: Bare metal deployment (theforeman, manual, PXE), Configuration Management (salt, puppet, manual), Security considerations
+Infrastructure / System Administration:: Bare metal deployment (theforeman, manual, PXE), Configuration Management (salt, puppet, manual), LDAP, DHCP, DNS, Security considerations
 
 Web / Cloud:: nodejs, python, apache, AWS/EC2, meteor, github, bitbucket, gitlab
 
@@ -28,22 +28,4 @@ Software Engineering:: Versioning, DevOps, OOP, Design Patterns, Unit testing, C
 
 Tools:: Visual Studio, Eclipse, Atom, Maven, Gradle, Git, Subversion, Asciidoc(tor), Travis
 
-Data processing / Statistics:: R, ipython, SPSS, MatLab, Python Pandas, NumPy, MatPlotLib, Computer Vision (OpenCV), OpenCL / SyCL / CUDA
-
-
-
-=== Project Management
-
-* Versioning (git, svn)
-* Project planning (issue tracking, milestones)
-* Project communication
-* github/gitlab
-* logistics
-
-=== Events / Performance
-
-* lighting and sound
-* events planning / logistics / riders
-* hackathons / game jams
-  ** organising and facilitating
-* public engagement / open days/ interview days
+Data-intensive processing / Statistics:: R, iPython, SPSS, MatLab, Python Pandas, NumPy, MatPlotLib, Computer Vision (OpenCV), OpenCL / SyCL / CUDA
