@@ -1,5 +1,7 @@
 == Projects, Events and Performances
 
+TODO for each physical build / which kind of technical?
+
 === Epitaph
 
 Mobile App allowing listening to anectodal stories from peoples' lives co-located with their graves

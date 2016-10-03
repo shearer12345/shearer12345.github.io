@@ -1,8 +1,6 @@
 //== Personal details
 
 [.text-center]
-`Name:` {author} +
-`Location:` Lincoln, UK +
 `Email:` {email} +
 `Phone:` {phone} +
 `Citizenship:` UK and USA (dual citizen) +
