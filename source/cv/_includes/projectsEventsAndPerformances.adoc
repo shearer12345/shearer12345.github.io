@@ -1,10 +1,8 @@
 == Projects, Events and Performances
 
-TODO for each physical build / which kind of technical?
-
 === Epitaph
 
-Mobile App allowing listening to anectodal stories from peoples' lives co-located with their graves
+Mobile App allowing listening to anectodal stories from peoples' lives co-located with their graves as part of a Research Fellowship at Griffiths University, Brisbane, Australia.
 
 icon:asterisk[] Project Manager (Joint), Technical Lead, Interaction Designer
 
@@ -12,22 +10,27 @@ icon:group[] Collaboration with Sue Swinburne
 
 === EyeResonator
 
+A large-scale immersive installation including an interactive ecosystem that generates and reacts in a multi-sensory light, sound, heat and cold.
 
 icon:asterisk[] Technical Lead, Logistics, Interaction Designer
 
 icon:group[] Collaboration with Brigitta Zics, Gavin Wood, Adam Parkinson
 
-icon:calendar[title="Period"] Eye Resonator At The Power Plant, Kelenföld Power Plant Station, Budapest. Curated by Peternák Miklós. _April 30 - May 3, 2015_ +
+icon:calendar[title="Period"] Eye Resonator At The Power Plant, Kelenföld Power Plant Station, Budapest. Cuwasted by Peternák Miklós. _April 30 - May 3, 2015_ +
 icon:calendar[title="Period"] Kinetica Art Fair, Old Truman Brewery. _October 16-19, 2014_ +
 icon:calendar[title="Period"] Fictional interludes I, Culture Lab, Newcastle University. Curated by Gabi Arrigoni. _June 3-5, 2014_ +
 
 === Music Rader
+
+A computer vision-based audio beat machine, where people create beats by literally placing physical items in the circular timeline of the music.
 
 icon:asterisk[] Technical Lead, Interaction Designer
 
 icon:calendar[title="Period"] Bestival 2012 – Tomorrow's World Arena .Isle of Wight, UK. _September 5-8, 2012_ +
 
 === NightinGallery
+
+The Nightingallery project encouraged participants to converse, sing, and perform with a musically responsive animatronic bird, playfully interacting with the character while members of the public could look on and observe.
 
 icon:asterisk[] Technical Lead, Interaction Designer, HCI Researcher
 
@@ -37,7 +40,9 @@ icon:calendar[title="Period"] BBC Free Thinking Festival 2011, Sage Gateshead, U
 icon:calendar[title="Period"] Bestival 2011- Tomorrow's World Arena .Isle of Wight, UK. _September 8-11, 2011_ +
 icon:calendar[title="Period"] Jam 46, Culture Lab – Newcastle, Newcastle upon Tyne, UK. _August 18. 2011_ +
 
-=== HumanAquarium
+=== *_humanAquarium_*
+
+_humanAquarium_ was a movable performance space designed to explore the ephemeral yet tangible relationship between artist and audience in the performing arts traditions. Using a custom, touch sensitive transparent screen touches and gestures influenced the sonic and visual properties of the musicians' ongoing performance, allowing participants to share in the performance development.
 
 icon:asterisk[] Technical Lead, Interaction Designer, HCI Researcher
 
@@ -57,6 +62,8 @@ icon:calendar[title="Period"] Public Announcement, Dance City, Newcastle upon Ty
 
 === MyGreatNorthRun
 
+This 3-month long installation captured and displayed stories about people’s personal experiences of the Great North Run and received over 12,000 submissions from approximately 100,000 visitors. MyGreatNorthRun combined and connected three kinds of interaction: touchscreens, digital pens and a website. The nine metre table-top interactive contained thirteen touchscreens to loosely represent each mile of the Run.
+
 icon:asterisk[] Technical Lead (joint), Interaction Designer, HCI Researcher
 
 icon:group[] Collaboration with Tom Bartindale, Rachel Clarke
@@ -64,17 +71,17 @@ icon:group[] Collaboration with Tom Bartindale, Rachel Clarke
 icon:calendar[title="Period"] Interactive Tabletops and Surfaces 2010, Saarbrücken, Germany. _November 7-10, 2010_ +
 icon:calendar[title="Period"] *3 month installation* - Great North Museum: Hancock, Newcastle upon Tyne, UK. _July 17 - October 17, 2010_ +
 
-=== Fibre Chopping Board -
+=== Fibre Chopping Board
 
-A custom-made chopping board augmented with (embedded) fibre optics for on-surface light sensing, a camera, and a microphone.
+A custom-made chopping board augmented with (embedded) fibre optics for on-surface light sensing, a camera, and a microphone. Experimental laser-cutter work allowed a dramatic increase in the image quality through the fibres.
 
 icon:asterisk[] Sensor Researcher
 
 icon:group[] Collaboration with Cuong Pham.
 
-* TODO - https://openlab.ncl.ac.uk/things/fiberchoppingboard/ +
-
 === Binary-furniture
+
+A bespoke installation involved generating custom tables for 3D printing using physical spirographs on a digital graphics tablet.
 
 icon:asterisk[] Technical Lead (joint), Interaction Designer
 
@@ -84,6 +91,8 @@ icon:calendar[title="Period"] Baltic Centre for Contemporary Art, Gateshead, UK.
 
 === Sundroids
 
+A event allowing young people to explore the environment and electronics through building simple, solar-powered machines/insects.
+
 icon:asterisk[] Technical Lead (joint), Interaction Designer
 
 icon:group[] Collaboration with Jamie Allen, Rachel Clarke, Kamilla Wajda, Karim Ladha
@@ -92,11 +101,15 @@ icon:calendar[title="Period"] Harehope quarry, Bishop Auckland, UK. _October 21-
 
 === RM840
 
+A sound-based installation exploring the tensions between new and redundant technologies through retrofitting.
+
 icon:group[] Collaboration with Kole Chen, Adriana Rojas Viquez
 
 icon:calendar[title="Period"] Render 10, Curtis Mayfield House, Newcastle upon Tyne, UK. _September 23-27, 2010_ +
 
 === Borrowers @ Nuffin like a puffin
+
+A project-recovery installation. Over two weeks a custom interactive, computer vision-based dynamic video piece for was developed and deployed to recover another team's failed 12-month project, for Puffin Books' 70th anniversary.
 
 icon:asterisk[] Late-Project Recovery, Technical Lead, Interaction Designer
 
@@ -105,6 +118,8 @@ icon:group[] Collaborations with Areti Galani
 icon:calendar[title="Period"] Seven Stories, Newcastle upon Tyne, UK. _July 2010 – June 2011_ +
 
 === The Virtual Human
+
+A two weekend public engagement show involving interactive virtual humans, chat bots, science explainers and custom web-based quizs.
 
 icon:asterisk[] Project management, Technical Lead, Curator
 

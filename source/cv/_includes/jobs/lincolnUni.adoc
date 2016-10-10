@@ -6,7 +6,7 @@ icon:group[title="Employee"] {link-lincolnUni}[University of Lincoln , role="ext
 * *Programmer Leader (Games Computing)*
   ** Lead team delivering Lincoln's {link-lincolnUniGamesComputing}[Games Computing] taught programme (BSc and MComp)
 * *Co-op leader of {link-lincolnUniIntLab}[Interactive Technologies Research Group (intLab)]*
-  ** Research focused in general on “Creative play in public spaces”, leveraging games technologies.
+  ** Research focused in general on “Creative play in public spaces”, using games technologies.
 * Supervising post-graduate research students (PhD and MSc)
 * Teaching and workshops on taught UG programmes (Graphics, Games Programming, Game Engine Architectures, Advanced Graphics)
 * Evangelizing good practice and disciplines of using software development support tools in teaching and research practices (versioning, issue tracking, communication support tools, automated testing)

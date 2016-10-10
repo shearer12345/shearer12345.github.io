@@ -1,13 +1,13 @@
 :author: John Shearer
 :date: September 2016
-:doctitle: Curriculum Vitae: {author} PhD BEng
+:doctitle: {author} PhD BEng
 ifdef::backend-pdf[:notitle:]
 ifdef::backend-pdf[]
 [discrete]
 = {doctitle}
 endif::[]
 
-:email: jshearer@lincoln.ac.uk
+:email: shearer12345gmail.com
 
 :phone: +44 (0)7703 112 946
 :icons: font
@@ -27,30 +27,16 @@ include::{includedir}/links.adoc[]
 [discrete]
 == *A fullstack human being*
 
+'''
+
 include::{includedir}/personalDetails.adoc[]
 
 ****
+I am an interdisciplinary, collaborative, maker-builder-developer-researcher. My work walks between Computer Science and the Arts, so I work with people from all backgrounds to make, explore and understand meaningful experiences. To do this I use a myriad of technologies to support this process, whilst keeping the end user front and centre.
 
-TODO - more letter of introduction. add content aligning with target
+I lead projects at all levels - from high-level strategic discussions and planning with involved parties, to getting my hands dirty and building art installations and physical computing devices in the real world - whatever the project needs. My works have resulted in both academic papers and a large number of public performances and installations, both in the UK and internationally.
 
-I am a interdisciplinary, collaborative, maker-builder-developer-researcher. +
-
-I work with people from all backgrounds to make, explore and understand meaningful experiences. I use a myriad of technologies to support this process, whilst keeping the human front and center. +
-
-My excellent communication skills afford highly effective colloborative projects. +
-
-My research walks between Computer Science and the Arts. My works have resulted in both academic papers and a large number of public performances and installations, both in the UK and internationally. +
-
-I can’t help but get down and get my hands dirty building in the real world - from art installations and physical computing devices; to custom leather work and just about anything that I can get away with. +
-
-I am passionate about working with people and Open Source software/hardware. Broad, strong technical knowledge +
-
-I have extremely strong, creative problem solving skills, excellent leadership and project management experience, and strong background in delivering effective, novel projects and events. +
-
-
-
-I have a PhD (Newcastle, UK) and BEng (York, UK) in Computer Science.
-
+My underpinning ethos is to collaborate with people in a research driven approach to build valuable products. In the brief portfolio that follows I will demonstrate that I use my range of strong problem solving skills, excellent leadership and project management experience to deliver effective, novel projects and events.
 ****
 
 toc::[]

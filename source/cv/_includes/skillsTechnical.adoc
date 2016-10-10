@@ -4,7 +4,7 @@ Languages and Specifications:: C, {cpp}, Python, Javascript,  Java, C#/.NET, R, 
 
 Markup languages etc:: (X)HTML, CSS, XML, Json, Asciidoc, Markdown
 
-Operating Systems:: icon:linux[] Linux (Ubuntu Server, Ubuntu, Xubuntu, Fedora, Raspbian), icon:windows[] Windows
+Operating Systems:: Linux (Ubuntu Server, Ubuntu, Xubuntu, Fedora, Raspbian) icon:linux[], Windows icon:windows[]
 
 Databases:: MySQL, Postgres, MongoDB, SQLite
 
@@ -14,18 +14,18 @@ Games:: Games Programming, Graphics, Game Engine Architectures, Games Design, Ga
 
 Physical Computing:: Arduino/Teensduino, RaspberryPi, AVR, PIC, DMX / MIDI / OSC, Audio, Servo/Stepper Motors, Electronics, Accelerometers
 
-Making/Fabrication:: 3D printing (FDM, SLS, SLA, Laser Cuttin, Milling (woods, plaster, paint), Hand and power tools, Lathes (non-CNC)
+Making/Fabrication:: 3D printing (FDM, SLS, SLA, Laser Cutting), Milling (woods, plaster, paint), Hand and power tools, Lathes (non-CNC)
 
-Custom / multimodal Interfaces:: Kinect (1 & 2), (multi)touch, anoto pens, geolocation
+Custom / multimodal Interfaces:: Kinect (1 & 2), (multi)touch, anoto pens, audio-focused (hands-free, eyes-free), geolocation,
 
 Infrastructure / System Administration:: Bare metal deployment (theforeman, manual, PXE), Configuration Management (salt, puppet, manual), LDAP, DHCP, DNS, Security considerations
 
-Web / Cloud:: nodejs, python, apache, AWS/EC2, meteor, github, bitbucket, gitlab
+Web / Cloud:: Nodejs, Python, Apache, AWS/EC2, Meteor, Github, Bitbucket, Gitlab
 
 Mobile:: Java, Cross-platform (Cordova/phonegap), geolocation, database connected
 
-Software Engineering:: Versioning, DevOps, OOP, Design Patterns, Unit testing, Continuous Integration
+Software Engineering:: Versioning (git, svn), DevOps, OOP, Design Patterns, Unit testing, Continuous Integration
 
-Tools:: Visual Studio, Eclipse, Atom, Maven, Gradle, Git, Subversion, Asciidoc(tor), Travis
+Tools:: Visual Studio, Eclipse, Atom, Maven, Gradle, Asciidoc(tor), Travis
 
 Data-intensive processing / Statistics:: R, iPython, SPSS, MatLab, Python Pandas, NumPy, MatPlotLib, Computer Vision (OpenCV), OpenCL / SyCL / CUDA
