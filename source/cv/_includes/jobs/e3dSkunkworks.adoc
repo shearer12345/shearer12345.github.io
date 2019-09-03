@@ -1,0 +1,7 @@
+=== Principal Software Engineering Manager (R&D) at E3D Skunksworks Ltd.
+
+icon:calendar[title="Period"] _May 2017 to Present_ +
+icon:group[title="Employee"] {link-e3dOnline}[E3D Skunkworks Ltd. , role="external", window="_blank"] +
+
+// TODO details out role at E3D
+* project lead for {link-e3dPathio}[Pathio.xyz , role="external", window="_blank"] +

@@ -1,5 +1,9 @@
 == Professional Experience
 
+include::jobs/e3dOnlineConsultant.adoc[]
+
+include::jobs/e3dSkunkworks.adoc[]
+
 include::jobs/lincolnUni.adoc[]
 
 include::jobs/exhibitForge.adoc[]

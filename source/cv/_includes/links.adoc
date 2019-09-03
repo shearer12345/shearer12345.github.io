@@ -1,25 +1,29 @@
 // Refs
 //TODO(shearer):link-resume: http://shearer12345.github.io/cv
 :link-github: https://github.com/shearer12345
+:link-gitlab: https://gitlab.com/scatterdemic
 :link-twitter: https://twitter.com/shearer12345_j
 :link-linkedin: https://www.linkedin.com/in/shearer12345
 
+//e3d
+
+:link-e3dOnline: https://e3d-online.com
+:link-e3dPathio: https://pathio.xyz/
 
 //lincoln
-:link-lincoln_staff: http://staff.lincoln.ac.uk/jshearer
-:link-lincolnUni: http://lincoln.ac.uk
+:link-lincolnUni: https://lincoln.ac.uk
 :link-lincolnUniGamesComputing: http://www.lincoln.ac.uk/home/course/cgpcmpub
-:link-lincolnUniIntLab: http://intlab.lincoln.ac.uk
+:link-lincolnUniIntLab: https://web.archive.org/web/20180323092847/http://intlab.lincoln.ac.uk/
 
 //newcastle
-:link-newcastleUni: http://newcastle.ac.uk
+:link-newcastleUni: https://ncl.ac.uk
 :link-newcastleUniOpenLab: https://openlab.ncl.ac.uk/
-:link-newcastleUniCultureLab: http://www.ncl.ac.uk/culturelab/
+:link-newcastleUniCultureLab: https://www.ncl.ac.uk/culturelab/
 
 //projects
 
 //writing
-:link-thesis: http://hdl.handle.net/10443/791
+:link-thesis: https://hdl.handle.net/10443/791
 
 //other links
 

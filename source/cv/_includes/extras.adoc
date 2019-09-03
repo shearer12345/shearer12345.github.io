@@ -1,6 +1,7 @@
 === Project Management
 
-TODO feed into projects and events list
+//TODO Add section on Project Management - and people management?
+// into projects and events list
 
 * Versioning (git, svn)
 * Project planning (issue tracking, milestones)
@@ -8,9 +9,14 @@ TODO feed into projects and events list
 * Github/gitlab
 * Logistics
 
+=== Talks/presentations etc?
+
+//TODO add list of talks, presentations, etc?
+* CppOnSea, sailing from 4Cs etc
+
 === Events / Performance
 
-TODO feed into projects and events list
+//IDEA feed events and performances stuff into projects and events list
 
 * Lighting and sound
 * Events planning / logistics / riders
@@ -52,25 +58,22 @@ TODO????
 
 == Planning / Logistics
 
-TODO ???
+IDEA ??? Add details on planning and logistics (make into new section?)
 
+== My first CNC
 
+* IDEA Add story of my first experience of CNC
 
-== TODO
-
-=== My first CNC
-
-* TODO
-
-=== Project commitment
+== Project commitment
 
 ----
 John has consistently demonstrated his ability to complete and deliver high quality, professional work. I am confident when I ask him to become involved in a project that he will willingly take ownership and complete the task to a very high standard. This was recently demonstrated when John recovered a significantly over-schedule project – making good on our promise for to deliver an interactive artwork that was seriously in jeopardy. He takes great pride in his work and always demonstrates a lot of passion and energy to making a project successful.
 ----
 
-=== Student project project management (UG, PG, and PhD)
+== Student project project management (UG, PG, and PhD)
 
 * enthusiastic engagement with all students - discussing their work; providing ideas and directions; helping edit outputs (text form, spoken form); and providing technical support and encouragement.
+
 == EXTRA
 
 * Punctual, reliable
@@ -78,7 +81,7 @@ John has consistently demonstrated his ability to complete and deliver high qual
 * "John participates fully within this group and consistently adds his expertise to the myriad of projects that we run." - from Patrick Olivier Reference
 * Leadership
 
-== Studnet quotes
+== Student quotes
 
 ----
 Below, I provide a small set examples of comments from students with respect to my teaching, in order to
@@ -95,7 +98,7 @@ trait missing in many academics. I would give John 5 stars out of 4. That's one 
 amount allotted for distribution, he's just that good."
 ----
 
-== Content from PAtrick Olivier Reference
+== Content from Patrick Olivier Reference
 
 ----
 I have known John Shearer for around 10 years since he was an undergraduate at the University of York where he came to my attention as an active participant taking a leadership role in student recruitment during our departmental admissions days. John joined me as one of my first PhD students when I moved to Newcastle University in 2004. From the outset John has been strongly engaged with his own research while also being a vital resource in the effective functioning of my research group. In a research context, John brings a large breadth of expertise to the table. He is a highly capable computer scientist, but also has much wider skills of management and organisation,

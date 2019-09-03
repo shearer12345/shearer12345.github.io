@@ -1,16 +1,27 @@
 == Technical Skills
 
+//TODO languages?? Swagger/openAPI, REST, versions??
 Languages and Specifications:: C, {cpp}, Python, Javascript,  Java, C#/.NET, R, PHP
 
-Markup languages etc:: (X)HTML, CSS, XML, Json, Asciidoc, Markdown
+//TODO build systems ++??
+Build Systems and dependency managers:: CMake, Premake, Conan.io, vcpkg,
 
-Operating Systems:: Linux (Ubuntu Server, Ubuntu, Xubuntu, Fedora, Raspbian) icon:linux[], Windows icon:windows[]
+//TODO other tooling - openTelemetry/tracing/census, elasticSearch, JSON
+
+Markup languages etc:: (X)HTML, CSS, XML, Json, Asciidoc, reStructuredText, Markdown
+
+Operating Systems:: Linux (Ubuntu Server, Ubuntu, Xubuntu, Fedora, Raspbian) icon:linux[], Windows icon:windows[], OS X icon:apple[]
 
 Databases:: MySQL, Postgres, MongoDB, SQLite
 
-3D:: OpenGL, OpenGL ES, WebGL, Extensive 3D knowledge and background, model loading and manipulation, VR (head-mounted, cave-based), Ogre3D
+//TODO Add vulkan?
+3D:: OpenGL, OpenGL ES, WebGL, Extensive 3D knowledge and background, model loading and manipulation, VR (head-mounted, cave-based), Ogre3D, three.js
 
-Games:: Games Programming, Graphics, Game Engine Architectures, Games Design, Games Research
+//TODO add Game Engines? Godot, UE4, Unity?
+
+//TODO multi-core, parallel, hpc, sycl
+
+Games:: Games Programming, 3D and 2D Graphics, Game Engine Architectures, Games Design, Games Research
 
 Physical Computing:: Arduino/Teensduino, RaspberryPi, AVR, PIC, DMX / MIDI / OSC, Audio, Servo/Stepper Motors, Electronics, Accelerometers
 
@@ -18,14 +29,23 @@ Making/Fabrication:: 3D printing (FDM, SLS, SLA, Laser Cutting), Milling (woods,
 
 Custom / multimodal Interfaces:: Kinect (1 & 2), (multi)touch, anoto pens, audio-focused (hands-free, eyes-free), geolocation,
 
+//TODO devops
 Infrastructure / System Administration:: Bare metal deployment (theforeman, manual, PXE), Configuration Management (salt, puppet, manual), LDAP, DHCP, DNS, Security considerations
 
-Web / Cloud:: Nodejs, Python, Apache, AWS/EC2, Meteor, Github, Bitbucket, Gitlab
+//TODO add technical web skills
+Web:: Nodejs, Python, Apache, AWS/EC2, Electron,
+
+//TODO cloud + docker + kubernetes
+Cloud:: AWS/EC2, Digital Ocean, Azure
 
 Mobile:: Java, Cross-platform (Cordova/phonegap), geolocation, database connected
 
 Software Engineering:: Versioning (git, svn), DevOps, OOP, Design Patterns, Unit testing, Continuous Integration
 
+// TODO ??? atlassian? jira?  Collaboration tools?
+Project Management:: Github, Bitbucket, Gitlab
+
 Tools:: Visual Studio, Eclipse, Atom, Maven, Gradle, Asciidoc(tor), Travis
 
-Data-intensive processing / Statistics:: R, iPython, SPSS, MatLab, Python Pandas, NumPy, MatPlotLib, Computer Vision (OpenCV), OpenCL / SyCL / CUDA
+//TODO update stats, big data
+Data-intensive processing / Statistics:: Jupyter, iPython, R, SPSS, MatLab, Python Pandas, NumPy, MatPlotLib, Computer Vision (OpenCV), OpenCL / SyCL / CUDA

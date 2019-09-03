@@ -1,0 +1,7 @@
+=== Consultant Software Engineering Manager (R&D) at E3D-Online Ltd.
+
+icon:calendar[title="Period"] _August 2019 to Present_ +
+icon:group[title="Employee"] {link-e3dOnline}[E3D-Online Ltd. , role="external", window="_blank"] +
+
+// TODO details out role as consultant for E3D-Online
+* technical documentation etc for international sales of Intellectual Property developer by E3D Skunkworks Ltd.

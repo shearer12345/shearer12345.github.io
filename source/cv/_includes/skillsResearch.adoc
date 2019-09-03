@@ -1,5 +1,6 @@
 == User Experience / HCI / Design Skills
 
+//TODO update UX/HCI/UI skills
 Design approaches:: Interaction Design, Experience-Centered Design, User-Centered Design, Participatory Design, Designing from Within, Designing for reflection
 
 Research Methodologies:: Research in the Wild (in the Wild of humanity) / Ecologically-valid studies, Research through Design, Empirical studies, Exploratory studies, Ethnography, Eye-tracking Analysis, Questionnaire Design, Auto-metricated Methods, Experimental Design

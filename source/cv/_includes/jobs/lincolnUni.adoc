@@ -1,6 +1,6 @@
 === Senior Lecture (Games Computing) at University of Lincoln, School of Computer Science
 
-icon:calendar[title="Period"] _January 2014 to Present (on-going)_ +
+icon:calendar[title="Period"] _January 2014 to May 2017_ +
 icon:group[title="Employee"] {link-lincolnUni}[University of Lincoln , role="external", window="_blank"] +
 
 * *Programmer Leader (Games Computing)*
