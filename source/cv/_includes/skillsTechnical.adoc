@@ -1,7 +1,7 @@
 == Technical Skills
 
 //TODO languages?? Swagger/openAPI, REST, versions??
-Languages and Specifications:: C, {cpp}, Python, Javascript,  Java, C#/.NET, R, PHP
+Languages and Specifications:: C, {cpp}, Python, Javascript,  Java, C#/.NET, PHP
 
 //TODO build systems ++??
 Build Systems and dependency managers:: CMake, Premake, Conan.io, vcpkg,
@@ -11,7 +11,7 @@ Build Systems and dependency managers:: CMake, Premake, Conan.io, vcpkg,
 // TODO systems design etc
 //  Knowledge of modern system designs: internet services architectures & designs of distributed systems
 // Knowledge with Big Data technologies like Hadoop/HDFS/HBase, Kafka/Akka, etc
-// Knowledge of Database technologies: relational and NoSQL 
+// Knowledge of Database technologies: relational and NoSQL
 
 Markup languages etc:: (X)HTML, CSS, XML, Json, Asciidoc, reStructuredText, Markdown
 

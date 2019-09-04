@@ -1,4 +1,4 @@
-=== Consultant Software Engineering Manager (R&D) at E3D-Online Ltd.
+=== Consultant Software Engineering Manager (R&D
 
 icon:calendar[title="Period"] _August 2019 to Present_ +
 icon:group[title="Employee"] {link-e3dOnline}[E3D-Online Ltd. , role="external", window="_blank"] +

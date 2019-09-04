@@ -1,14 +1,15 @@
-=== Senior Lecture (Games Computing) at University of Lincoln, School of Computer Science
+=== Senior Lecture (Games Computing)
 
 icon:calendar[title="Period"] _January 2014 to May 2017_ +
 icon:group[title="Employee"] {link-lincolnUni}[University of Lincoln , role="external", window="_blank"] +
 
 * *Programmer Leader (Games Computing)*
-  ** Lead team delivering Lincoln's {link-lincolnUniGamesComputing}[Games Computing] taught programme (BSc and MComp)
+  ** Led team delivering Lincoln's {link-lincolnUniGamesComputing}[Games Computing] taught programme (BSc and MComp)
 * *Co-op leader of {link-lincolnUniIntLab}[Interactive Technologies Research Group (intLab)]*
   ** Research focused in general on “Creative play in public spaces”, using games technologies.
 * Supervising post-graduate research students (PhD and MSc)
 * Teaching and workshops on taught UG programmes (Graphics, Games Programming, Game Engine Architectures, Advanced Graphics)
+* Software development for both Teaching and Researching, following best practices - mainly C++
 * Evangelizing good practice and disciplines of using software development support tools in teaching and research practices (versioning, issue tracking, communication support tools, automated testing)
 * Support students on taught programmes in varied roles
-* Athena Swan (equality/inclusion) committee
+* Athena Swan (equality/diversity/inclusion) committee

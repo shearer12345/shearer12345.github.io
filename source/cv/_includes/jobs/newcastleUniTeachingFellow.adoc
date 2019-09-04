@@ -1,13 +1,10 @@
-=== Teaching Fellow (Games Engineering) at Newcastle University, School of Computing Science, OpenLab/CultureLab
+=== Teaching Fellow (Games Engineering)
 
 icon:calendar[title="Period"] _September 2008 to January 2014_ +
 icon:group[title="Employee"] {link-newcastleUni}[Newcastle University , role="external", window="_blank"] +
 
-
-* Co-supervising post-graduate research students (PhD and MSc)
 * Module leader and teaching on undergraduate and MSc modules in Computer Graphics, Games Development, Artificial Intelligence, User Interface Techniques and Technologies and Software Engineering.
-* Support students on taught programmes in varied roles
-* Deep engagement with, and support of, the Research Group ({link-newcastleUniOpenLab}[OpenLab], {link-newcastleUniCultureLab}[CultureLab])
-  ** I provided support and expertise across the wide set of areas that the group covers and enthusiastically engaged with all the students and researchers - discussing work; providing ideas and direction; helping edit outputs (text form, spoken form); and providing technical support.
-  ** I contributed significantly to the groups' public engagement and community outreach agenda - being instrumental in the creation and management of several high-profile exhibitions.
-  ** In addition to my Computer Science capabilities my making skills, electrical and electronics knowledge, and excellent problem-solving skills, all contributed to enabling the building of devices and installations for the large number of interdisciplinary projects.
+* Software Development for teaching and research in C++, Java, C#, using low-level libraries (OpenGL, SDL2) and high-level Game Engines (Unity, Unreal Engine)
+* Co-supervised post-graduate research students (PhD and MSc)
+* Contributed significantly to the groups' public engagement and community outreach agenda - being instrumental in the creation and management of several high-profile exhibitions.
+* Leveraged skills in Computer Science as well as capabilities in manufacture/making, electrical and electronics, and excellent problem-solving skills to enable building of software, devices and installations for a large number of interdisciplinary projects with my Research group ({link-newcastleUniOpenLab}[OpenLab], {link-newcastleUniCultureLab}[CultureLab])

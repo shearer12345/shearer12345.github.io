@@ -1,6 +1,6 @@
 == Professional Experience
 
-include::jobs/e3dOnlineConsultant.adoc[]
+//include::jobs/e3dOnlineConsultant.adoc[]
 
 include::jobs/e3dSkunkworks.adoc[]
 
@@ -10,4 +10,4 @@ include::jobs/exhibitForge.adoc[]
 
 include::jobs/newcastleUniTeachingFellow.adoc[]
 
-include::jobs/newcastleUniResearchAssociate.adoc[]
+//include::jobs/newcastleUniResearchAssociate.adoc[]

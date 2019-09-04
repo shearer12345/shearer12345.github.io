@@ -1,13 +1,9 @@
 === Director (ExhibitForge Ltd.)
 
 icon:calendar[title="Period"] _January 2010 to May 2018_ +
-icon:building[title="Director"] ExhibitForge Ltd. (micro-company)
+// icon:building[title="Director"] ExhibitForge Ltd. (micro-company)
 
 * *Director and main contractor*
-* Company activities
-  ** Server and client infrastructure. Bare metal automated deployment (theforeman, PXE, saltstack), DHCP, DNS.
-  ** Short-term, reactive maintainence
-  ** Long-term, planned upgrades for efficiency (energy and maintainence)
-  ** Various contract work
-* Quotations, Finances, taxes
-* Contractor hiring
+* Provided Short-term, reactive maintenance and long-term, planned upgrades for efficiency (energy and maintenance).
+* Implemented Server and Client infrastructure, bare metal automated deployment (theforeman, PXE, saltstack), DHCP, DNS, and technical troubleshooting.
+* Quotations, ticket system, finances, taxes, contractor hiring

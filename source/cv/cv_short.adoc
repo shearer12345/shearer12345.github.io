@@ -18,7 +18,6 @@ endif::[]
 :source-language: asciidoc
 :includedir: _includes
 :sectnums!:
-:toc: macro
 :imagesdir: ../images
 :pdf-page-size: A4
 
@@ -34,24 +33,14 @@ include::{includedir}/personalDetails.adoc[]
 
 include::{includedir}/personalSummary.adoc[]
 
-
-toc::[]
-
-<<<
 include::{includedir}/professionalExperience.adoc[]
-
-<<<
 
 include::{includedir}/skillsTechnical.adoc[]
 
 include::{includedir}/skillsResearch.adoc[]
 
-<<<
-
-include::{includedir}/projectsEventsAndPerformances.adoc[]
-
-<<<
-
-include::{includedir}/publications.adoc[]
-
 include::{includedir}/education.adoc[]
+
+== Publications, Projects, Events and Performances
+
+NOTE: a list of academic publications, projects, events and performances can be supplied on request
