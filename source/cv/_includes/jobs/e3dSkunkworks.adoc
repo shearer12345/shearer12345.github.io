@@ -4,4 +4,32 @@ icon:calendar[title="Period"] _May 2017 to Present_ +
 icon:group[title="Employee"] {link-e3dOnline}[E3D Skunkworks Ltd. , role="external", window="_blank"] +
 
 // TODO details out role at E3D
-* project lead for {link-e3dPathio}[Pathio.xyz , role="external", window="_blank"] +
+* project lead for a ground breaking 3D printing Software product - {link-e3dPathio}[Pathio.xyz , role="external", window="_blank"] +
+* Led all aspects of the project: Research, Development, Ops, QA, documentation in an Agile methodology
+* Coached and mentored developers ...
+   * Code quality, modularity and testability
+   * Continuous improvement of product, code, ways of working and individuals
+* Constructed roadmap for short, medium and long time scales
+* Deep engagement in novel 3D geometry algorithms for 3D printing
+* Researched ...???? technical feasibility
+* Orchestrated a continual focus on UX across the team, leading to a product recognised as having excellent UX and UI
+* Strong focus on a safe, happy team affording high productivity
+* Built out the CI/CD systems allowing fully automated releases and testing on all commits
+* Balanced competing demands on my time between low-level development related activities and high-level strategic discussions, stakeholder consultations and decision maker
+* ???Coordinated team to work effectively together and to prioritise most valuable work first
+* Designed the architecture of a massively parallel high-performance 3D printing planning engine
+* Responsible for delivery of multi-platform product to a global audiences
+  * 10,000+ registered users
+* ??? Equality, Diversity and Inclusion
+* Efficiently managed a cross-functional team of developers, UX designers and customer service people
+* Guided team to become remote-ready, allowing hiring from a more global pool
+   * Drove focus on "document everything" - allowing more asynchronous working
+* Provided technical expertise across all aspects, with a deep focus on Modern C++ and 3D Geometry and processing
+* Facilitated consensus-reaching discussions between team members to allow bought-in decision making across the team
+* Ensured team is resourced to support future growth - obtained CPD budget for whole team
+* ??? Provided overall people-care management for direct reports, including hiring, setting and monitoring of annual performance plans, coaching, and career development; drives and fosters organization-wide performance standards, expectations, and practices to support ongoing team member and process development
+* ??? "Doing the Science" - profiling, data collection/analysis, reporting writing, ...
+* Constructed a team "handbook", including on-boarding processes, domain-specific knowledge, and ways-of-working
+   * for continuous use
+* Data and app Security and privacy ...
+* ??? Designed, architected, coded and scaled the product. Planned roadmaps, built a department, hired and managed all product teams: ???.
