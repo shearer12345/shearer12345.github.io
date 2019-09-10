@@ -1,23 +1,27 @@
 // TODO update personal summar
 
+Hands-on, collaborative, multidisciplined Software Engineering Manager with a solid 15+ year history of innovative and successful projects across a myriad of domains with highly varied hardware and software, collaborating with people from many disciplines (Computer Science, Engineering, Psychology, Music, Film and Media arts).
 
-* ??? Builds and leads happy teams; inspiring team members to reach higher levels of performance through trust, delegation, participation and coaching
-* ??? 20+ years of software development experience
-* ??? Ability to lead complex Software projects through the whole SDLC, from concept to fully operational status
-   * backend, front-end, UX, monitoring, ops, CI/CD, stakeholder engagement, ...
-* ??? Highly effective collaboration, communication, coach and leader
-   * Proven ability to write, present, talk clearly and persuasively, whilst **listening**
-* ??? Well organised, motivated, and persistent problem solver  (??? on all levels of work)
-* ??? Well recognised for positive, inclusive leadership ...
-   * ??? Promote a high performance culture with a People First mentality, developing future leaders
-* ??? Highly knowledgable and capable  across multiple disciplines...
-   * Deep knowledge within 3D graphics, geometry and algorithms and ...
-* promote best-practices across all domains
-* Engages with program managers, product managers, marketing, technical leaders, and executives to communicate program status, escalate issues, and guide and influence strategic decision-making
-* " experience directing mission-critical decisions for teams of 20 senior engineers in growth-stage Internet startups from zero to exit; 15+ years hands-on technical experience in broad stacks of engineering; world-class education in Computer Science, Engineering, Management, Product Design, Entrepreneurship and Human Psychology; "
-* Passionate about Open Source
-* Passionate about transparency and open working
+Focused on bringing best practices to software engineering and project leadership. Highly capable and knowledgable across multiple disciplines, with a deep focus on high-performance C++ and 3D (Graphics, and Geometry Processing), with experience in GPGPU (OpenCL, CUDA, hpx, SYCL) and OpenCV.
+
+Well recognised for positive, inclusive leadership and project management, promoting a caring, human-first, growth mentality that enables team members to reach high level of performance through trust, delegation, participation, empathy and coaching. Passionate about transparency and openness in the work place. Continual focus on facilitating learning of the whole team and developing future leaders.
+
+Ability to lead complex projects at all levels (from high-level strategic discussions and strategic planning with involved parties (program managers, product managers, marketing, technical leaders, and executives), to getting hands dirty programming, building physical computing art installations in the real world), through the whole lifecycle (from concept to fully operational status) and across the whole technical spectrum (backend, front-end, hardware/firmware, UX, Ops/Infrastructure, CI/CD).
+
+
+
+
+
+
+////
+Extra
+
+* an interdisciplinary, collaborative, maker-builder-developer-researcher
+
+*
    * "CREDIT - GitLab's six values are Collaboration, Results, Efficiency, Diversity & Inclusion, Iteration, and Transparency, and together they spell the CREDIT we give each other by assuming good intent"
    * aligned to GitLab's values - https://about.gitlab.com/handbook/values/
-* deep focus on high-performance C++ and 3D (Graphics, and Geometry Processing)
-* ... experience with GPGPU (OpenCL, CUDA, hpx, sycl) and OpenCV
+
+
+* * " experience directing mission-critical decisions for teams of 20 senior engineers in growth-stage Internet startups from zero to exit; 15+ years hands-on technical experience in broad stacks of engineering; world-class education in Computer Science, Engineering, Management, Product Design, Entrepreneurship and Human Psychology; "
+////

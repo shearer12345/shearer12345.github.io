@@ -1,12 +1,21 @@
 == Education
 
-=== PhD Computer Science, Newcastle University, UK
+=== PhD Computer Science
 
-icon:calendar[title="Period"] _2004-2008_ - *PhD (Computer Science)* +
+// icon:calendar[title="Period"]
+*_October 2004 to October 2008_*
+-
+// icon:group[]
+{link-newcastleUni}[Newcastle University, UK ]
 
 * {link-thesis}[Thesis: Persuasive interactive non-verbal behaviour in embodied conversational agents, role="external", window="_blank"] +
-  ** How can we develop more engaging, persuasive, and fun interfaces using on-screen characters
+  ** Researched into how more engaging, persuasive, and fun interfaces using on-screen characters can be designed, developed and understood
+  ** Developed Interactive Persuasive Agents using 3D Graphics, Computer Vision and AI techniques. Designed and ran empirical studies with large numbers of participants to provide statistical evidence of how Persuasive Agents may provide value
 
-=== BEng Computer Science (2:1), York University, UK
+=== BEng Computer Science (2:1)
 
-icon:calendar[title="Period"] _1999-2002_ - *BEng (Computer Science)* +
+// icon:calendar[title="Period"]
+*_October 1999 to June 2002_*
+-
+// icon:group[]
+{link-yorkUni}[York University, UK] +

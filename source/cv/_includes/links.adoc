@@ -20,6 +20,11 @@
 :link-newcastleUniOpenLab: https://openlab.ncl.ac.uk/
 :link-newcastleUniCultureLab: https://www.ncl.ac.uk/culturelab/
 
+//york
+
+:link-yorkUni: https://www.york.ac.uk/
+
+
 //projects
 
 //writing

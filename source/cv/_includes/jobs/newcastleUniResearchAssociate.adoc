@@ -1,8 +1,11 @@
 === Research Associate
 
-icon:calendar[title="Period"] _November 2005 to August 2008_ +
-icon:group[title="Employee"] {link-newcastleUni}[Newcastle University , role="external", window="_blank"] +
+// icon:calendar[title="Period"]
+*_November 2005 to August 2008_*
+-
+// icon:group[title="Employee"]
+{link-newcastleUni}[Newcastle University , role="external", window="_blank"]
 
-* Research for Unilever PLC on Persuasive Virtual Agents to support health life styles - directly related to my (concurrent) PhD research.
-  ** I explored through empirical studies how Persuasive Agents provide value in various contexts.
-  ** During the project I developed Persuasive Agents using 3D Graphics, Computer Vision and AI techniques. I designed and ran studies with large numbers of participants to provide statistical evidence.
+* Performed novel research for Unilever PLC on Persuasive Virtual Agents to support healthy life styles - directly related to my (concurrent) PhD research
+* Developed Interactive Persuasive Agents using 3D Graphics, Computer Vision and AI techniques.
+* Designed and ran empirical studies with large numbers of participants to provide statistical evidence of how Persuasive Agents may provide value

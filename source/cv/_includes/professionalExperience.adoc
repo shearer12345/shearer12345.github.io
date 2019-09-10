@@ -10,4 +10,4 @@ include::jobs/exhibitForge.adoc[]
 
 include::jobs/newcastleUniTeachingFellow.adoc[]
 
-//include::jobs/newcastleUniResearchAssociate.adoc[]
+include::jobs/newcastleUniResearchAssociate.adoc[]

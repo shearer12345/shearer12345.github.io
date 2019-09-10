@@ -24,9 +24,8 @@ endif::[]
 
 include::{includedir}/links.adoc[]
 
-//TODO update tagline
 [discrete]
-== *Leading happy software teams to high productivity*
+== *Leading happy, productive software teams*
 
 '''
 

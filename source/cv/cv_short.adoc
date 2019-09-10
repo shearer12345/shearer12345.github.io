@@ -23,11 +23,8 @@ endif::[]
 
 include::{includedir}/links.adoc[]
 
-//TODO update tagline
 [discrete]
-== *Leading happy software teams to high productivity*
-
-'''
+== *Leading happy, productive software teams*
 
 include::{includedir}/personalDetails.adoc[]
 
@@ -35,12 +32,22 @@ include::{includedir}/personalSummary.adoc[]
 
 include::{includedir}/professionalExperience.adoc[]
 
-include::{includedir}/skillsTechnical.adoc[]
-
-include::{includedir}/skillsResearch.adoc[]
+<<<
 
 include::{includedir}/education.adoc[]
 
 == Publications, Projects, Events and Performances
 
 NOTE: a list of academic publications, projects, events and performances can be supplied on request
+
+<<<
+
+include::{includedir}/skillsTechnical.adoc[]
+
+<<<
+
+include::{includedir}/skillsResearch.adoc[]
+
+== References
+
+NOTE: references can be supplied on request
