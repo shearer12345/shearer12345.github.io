@@ -7,7 +7,7 @@ ifdef::backend-pdf[]
 = {doctitle}
 endif::[]
 
-:email: shearer12345gmail.com
+:email: shearer12345@gmail.com
 
 :phone: +44 (0)7703 112 946
 :icons: font
