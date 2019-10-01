@@ -1,0 +1,55 @@
+:author: John Shearer
+:date: Tuesday 1st October 2019
+:doctitle: Dr. {author}
+
+:email: shearer12345@gmail.com
+
+:phone: +44 (0)7703 112 946
+:icons: font
+:linkattrs:
+:sectanchors:
+:sectlink:
+:experimental:
+:source-language: asciidoc
+:includedir: _includes
+:sectnums!:
+:!toc:
+:imagesdir: ../../images
+:pdf-page-size: A4
+
+---
+
+[.text-right]
+Dr. {author} +
+34 Butts Road, Horspath +
+OX33 1RJ, UK +
+{phone} +
+{email} +
+
+[.text-left]
+{date}
+
+*Re: Engineering Manager (Europe)*
+
+Dear Particle.io,
+
+I would like to apply for the role of Engineering Manager (Europe) with yourselves.
+I read the description with great interest and would love to learn more about the role and particle.io. I am particularly taken by your focus on enabling, unblocking diverse team members and particle.io's core values.
+
+I believe I would be an excellent fit for this position, with my combination of  a caring,
+human-first leadership style and deep technical capabilities. I'm experienced working with and managing cross-functional teams, including remote members,  across all layers of the technology stack. See my attached CV for further details.
+
+I would like to continue growing as a leader and love working with people to produce great work and happy teams - working at particle.io looks to perfectly aligned with my goals and I'm confident that I can bring significant value to yourselves.
+
+Thank you for your time and consideration. I look forward to discussing further  at your convenience.
+
+Kind Regards,
+
+
+
+John
+
+---
+
+Dr. John Shearer +
+{email}
