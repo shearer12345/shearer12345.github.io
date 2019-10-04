@@ -1,0 +1,25 @@
+# Questions From Employers
+
+## hardest lesson learned in your time as an engineering manager
+
+It is very important to make sure team members are fully on-board with decisions - both technical and otherwise. I've found that it can be quite easy to think that the team has come to a consensus on a decision (e.g. a way to solve a problem; a tool to use; a way to work together) without that being fully the case for everyone. That then can lead to people acting in ways that don't match that decision, and at least as importantly unhappiness for team members.
+
+For example, in my previous role, we made a team decision that (as much as possible) we would not do multiple pieces of independent work in a single issue or merge request. After a while we found that for some people they felt this slowed them down and they felt frustrated or bypassed the "rule". They felt that when they saw a small issue whilst working on something else, just fixing that new issue along with their current work seemed like much less work than the longer workflow of create new issue->create branch->fix->submit merge request->review->etc. This was true - it was less work, but only in the short term and it took us some time, and some challenging discussions, to unpick the costs and benefits of each approach, to understand what felt like "hard work" or caused feelings of "the process is slowing me down". This discussion led to deciding when we felt (as a team) *might* be appropriate to shortcut the role. And most importantly in this case, that the process feeling like hard work was also significantly related to other factors that we could change - specifically that our CI was (at that point) quite slow and that fixing that was a better solution all around.
+
+This is, of course, inevitable (all decisions are like to be imperfect, especially over time), but I've definitely found ways to improve here. For instance, making sure we write down the decisions and their rationales, and making sure everyone understands that these decisions can be revisited, and that we'd prefer to revisit the decisions openly rather than ignore them - that over time we learn and think differently (individually and as a team) and changing things can be appropriate. And, as meta-work, making sure everyone is happy to raise concerns and comfortable that we can discuss them, have differing thoughts, feelings and opinions and come to a healthy consensus. That said, these discussions are always somewhat energy-intensive and require effort.
+
+## What in your experience are the biggest opportunities and challenges in managing a remote team
+
+### Challenges
+
+1. Making sure that remote team members feel like 1st class members and are able to fully participate
+1. Good, effective, appropriate communication - both in terms of the facilitating technologies and in terms of how teams use those tools. Some tools work better for some kinds of activities, with variance across team members and collection of team members. For instance, I've frequently found that high quality audio is much more important than having *any* video for collaborative tasks - though shared access to data (screen share; live sharable docs (e.g. google docs)) is frequently helpful. But for more personal discussions being able to see someone's face can be important.
+1. Visibility of work is reduced - it can be less to clear to other what each person is working on.
+
+### Opportunities
+
+1. Remote work *requires* more clear, written down processes, plans and documentation. These are all best-practices for local-only teams and having remote members supports following this best practice.
+1. Text-based messaging and communication platforms (slack, discourse, gitlab, etc) allow the communications between individuals and groups to be automatically recorded and for them to be referred to later, linked from other places and collated where appropriate - this rarely happens with verbal conversations. I've found that encouraging individuals to "write-up" verbal conversations for the record to be a valuable practice.
+1. Hiring from a wider pool - allowing candidates from wider geographies, demographics and experiences.
+1. Increased flexibility and control for people in a myriad of ways, which allow them to be happier and more productive - location, timing, visual and auditory level, etc
+1. Reduced environmental impact and reduced commuting for people (a benefit rather than opportunity)
