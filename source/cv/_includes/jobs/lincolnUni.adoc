@@ -13,6 +13,6 @@
 * Engaged in internationally published research focused around “Creative play in public spaces”, using Games Technologies
 * Supervised post-graduate research students (PhD and MSc). Pastoral support of students across programmes
 * Developed and delivered taught content for UG and PG programmes (Graphics, Games Programming, Game Engine Architectures, Advanced Graphics)
-* Wrote new software for both teaching and research in C++, Java, C#, using low-level libraries (OpenGL, GLSL, SDL2) and high-level Game Engines (Unity, Unreal Engine), affording very highly rated programmes
+* Wrote new software for both teaching and research in {cpp}, Java, C#, using low-level libraries (OpenGL, GLSL, SDL2) and high-level Game Engines (Unity, Unreal Engine), affording very highly rated programmes
 * Evangelized good practice and disciplines of using software development support tools in teaching and research practices (versioning, issue tracking, communication support tools, automated testing)
 * Advocated for equality, diversity and inclusion at all teaching and learning levels, and across the department (Athena Swan committee)

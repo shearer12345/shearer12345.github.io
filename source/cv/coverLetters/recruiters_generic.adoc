@@ -24,7 +24,7 @@ Dear {recruiter},
 
 I'm an experienced Software Engineering Manager and I'm looking for a new position in the Oxford area.
 
-I am technically capable across a wide set of technologies, though currently have a preference for C++, 3D, Graphics, and high-performance computing (GPU etc).
+I am technically capable across a wide set of technologies, though currently have a preference for {cpp}, 3D, Graphics, and high-performance computing (GPU etc).
 With a caring, human-first leadership approach, I'm experienced working with and managing cross-functional teams, including remote members, across all layers of the technology stack (fullstack).
 
 In addition to having deep technical capabilities I am particularly focused on encouraging best practices in Software Engineering - Agile, DevOps approaches with attention to enabling, unblocking and coaching team members.

@@ -2,7 +2,7 @@
 
 Hands-on, collaborative, multidisciplined Software Engineering Manager with a solid 15+ year history of innovative and successful projects across a myriad of domains with highly varied hardware and software, collaborating with people from many disciplines (Computer Science, Engineering, Psychology, Music, Film and Media arts).
 
-Focused on bringing best practices to software engineering and project leadership. Highly capable and knowledgable across multiple disciplines, with a deep focus on high-performance C++ and 3D (Graphics, and Geometry Processing), with experience in GPGPU (OpenCL, CUDA, hpx, SYCL) and OpenCV.
+Focused on bringing best practices to software engineering and project leadership. Highly capable and knowledgable across multiple disciplines, with a deep focus on high-performance {cpp} and 3D (Graphics, and Geometry Processing), with experience in GPGPU (OpenCL, CUDA, hpx, SYCL) and OpenCV.
 
 Well recognised for positive, inclusive leadership and project management, promoting a caring, human-first, growth mentality that enables team members to reach high level of performance through trust, delegation, participation, empathy and coaching. Passionate about transparency and openness in the work place. Continual focus on facilitating learning of the whole team and developing future leaders.
 

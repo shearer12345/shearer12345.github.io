@@ -16,7 +16,7 @@ Led the development of a ground-breaking, cross-platform 3D printing software pr
 
 * Engaged at all levels of work, from pair programming and building out CI/CD systems, through to high-level strategic discussions, stakeholder consultations, roadmapping and decision making. Interacted daily with whole team and reported directly to the directors
 
-* Designed, architected, coded and scaled a multi-core high-performance 3D printing planning engine. Provided technical expertise across all aspects, with a deep focus on Modern C++ and 3D data processing and visualisation
+* Designed, architected, coded and scaled a multi-core high-performance 3D printing planning engine. Provided technical expertise across all aspects, with a deep focus on Modern {cpp} and 3D data processing and visualisation
 
 * Researched, developed, implemented and evaluated novel 3D geometry algorithms for 3D printing, with a focus on leveraging existing published work and "_doing the science_" to be confident our work was effective and performant.
 

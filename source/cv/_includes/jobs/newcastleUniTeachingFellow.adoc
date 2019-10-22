@@ -7,7 +7,7 @@
 {link-newcastleUni}[Newcastle University , role="external", window="_blank"]
 
 * Led modules and designed and delivery taught content on undergraduate and MSc modules in Computer Graphics, Games Development, Artificial Intelligence, User Interface Techniques and Technologies and Software Engineering
-* Wrote new software for both teaching and research in C++, Java, C#, using low-level libraries (OpenGL, GLSL, SDL2) and high-level Game Engines (Unity, Unreal Engine), affording very highly rated programmes
+* Wrote new software for both teaching and research in {cpp}, Java, C#, using low-level libraries (OpenGL, GLSL, SDL2) and high-level Game Engines (Unity, Unreal Engine), affording very highly rated programmes
 * Supervised post-graduate research students (PhD and MSc)
 * Contributed significantly to the groups' public engagement and community outreach agenda - being instrumental in the creation and management of several high-profile exhibitions
 * Leveraged skills in Computer Science as well as capabilities in manufacture/making, electrical and electronics, and excellent problem-solving skills to enable building of software, devices and installations for a large number of interdisciplinary projects with my Research group ({link-newcastleUniOpenLab}[OpenLab], {link-newcastleUniCultureLab}[CultureLab])
