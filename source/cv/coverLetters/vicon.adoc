@@ -1,0 +1,55 @@
+:author: John Shearer
+:date: Tuesday 1st October 2019
+:doctitle: Dr. {author}
+
+:email: shearer12345@gmail.com
+
+:phone: +44 (0)7703 112 946
+:icons: font
+:linkattrs:
+:sectanchors:
+:sectlink:
+:experimental:
+:source-language: asciidoc
+:includedir: _includes
+:sectnums!:
+:!toc:
+:imagesdir: ../../images
+:pdf-page-size: A4
+
+---
+
+[.text-right]
+Dr. {author} +
+34 Butts Road, Horspath +
+OX33 1RJ, UK +
+{phone} +
+{email} +
+
+[.text-left]
+{date}
+
+*Re: {cpp} Systems Programmer*
+
+Dear Vicon,
+
+I would like to apply for a role with yourselves. My most recent role has been as a Software Engineering Manager, in a very hands-on role, with a large amount of high-performance 3D geometry processing in {cpp}, and novel algorithm development. I've discussed your advertised role with my recruiter (Reqiva), who suggest that talking together about possible options may be the best course of action - I am open to all sort of roles with Vicon, including pure developer roles, as well as more leadership roles. Reqiva will also mention that my 2nd in-command from my previous role (Liam Adams) is also interested in Vicon (has already applied), and continuing to work with him would be bring you a very effective pairing who work well together.
+
+I am technically capable across a wide set of technologies, though currently have a preference for {cpp}, 3D, Graphics, and high-performance computing (GPU etc). In addition to having deep technical capabilities I am particularly focused on encouraging best practices in Software Engineering - Agile, DevOps approaches with attention to enabling, unblocking and coaching team members.
+
+With a caring, human-first leadership approach, I'm experienced working with and managing cross-functional teams, including remote members, across all layers of the technology stack (fullstack).
+
+Coincidentally, I have some significant experience with using Vicon products from my PhD and research career, and this leads to a significant interest in working specifically with yourselves.
+
+Thank you for your time and consideration. I look forward to discussing further at your convenience.
+
+Kind Regards,
+
+
+
+John
+
+---
+
+Dr. John Shearer +
+{email}
