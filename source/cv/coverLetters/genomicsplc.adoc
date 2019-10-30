@@ -1,0 +1,55 @@
+:author: John Shearer
+:doctitle: Dr. {author}
+
+:email: shearer12345@gmail.com
+
+:phone: +44 (0)7703 112 946
+:icons: font
+:linkattrs:
+:sectanchors:
+:sectlink:
+:experimental:
+:source-language: asciidoc
+:includedir: _includes
+:sectnums!:
+:!toc:
+:notitle:
+:imagesdir: ../../images
+:pdf-page-size: A4
+
+---
+
+[.text-right]
+34 Butts Road, Horspath +
+OX33 1RJ, UK +
+{phone} +
+{email} +
+
+[.text-left]
+{docdate}
+
+*Re: Senior Software Engineer - Core Engines*
+
+Dear Genomics hiring team,
+
+I would like to apply for the role of Senior Software Engineer (Core Engines). My most recent role has been as a Software Engineering Manager, in a very hands-on role, with a large amount of high-performance 3D geometry processing in {cpp}, and novel algorithm development.
+
+I am technically capable across a wide set of technologies and am enthusiastic about developing new skills. In addition to having deep technical capabilities, I am particularly focused on encouraging best practices in Software Engineering - Agile, DevOps approaches with attention to enabling, unblocking and coaching team members.
+
+With a caring, human-first leadership approach, I'm experienced working with and managing cross-functional teams, including remote members, across all layers of the technology stack (fullstack). I'm also entirely working as part of a team in a flatter, peer-peer structure. I'm particularly taken with your statement that Genomics makes "time for the exploration of new ideas, and share what we have learned with each other through mentorship, pair programming, and tech talks".
+
+I'm also experienced in research and data science practices and comfortable working effectively with researchers from a wide set of domains. Your usage of Apache Arrow for your in-memory data representation is very intriguing to me - in my most recent role, moving to Arrow was a significant part of our next iteration, and I would look forward to exploring this in more depth.
+
+I would like to continue growing both technically and as a collaborator/leader, and love working with people to produce great work and happy teams. Working at Genomics looks to be perfectly aligned with these goals and I'm confident that I can bring significant value to the company.
+
+Thank you for your time and consideration. I look forward to discussing further at your convenience.
+
+Kind regards,
+
+
+
+John
+
+---
+
+Dr. John Shearer
