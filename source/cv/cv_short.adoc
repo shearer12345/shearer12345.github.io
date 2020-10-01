@@ -30,6 +30,8 @@ include::{includedir}/personalDetails.adoc[]
 
 include::{includedir}/personalSummary.adoc[]
 
+<<<
+
 include::{includedir}/professionalExperience.adoc[]
 
 <<<

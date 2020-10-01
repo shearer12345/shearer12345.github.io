@@ -2,8 +2,14 @@
 //TODO(shearer):link-resume: http://shearer12345.github.io/cv
 :link-github: https://github.com/shearer12345
 :link-gitlab: https://gitlab.com/scatterdemic
-:link-twitter: https://twitter.com/shearer12345_j
+:link-twitter: https://twitter.com/scatterdemic
 :link-linkedin: https://www.linkedin.com/in/shearer12345
+
+//sqorl
+:link-sqork: https://sqork.com
+
+//mastersofpie
+:link-mastersOfPie: https://mastersofpie.com
 
 //e3d
 

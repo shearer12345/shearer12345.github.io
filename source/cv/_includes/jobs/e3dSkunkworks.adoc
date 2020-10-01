@@ -1,7 +1,7 @@
 === Software Engineering Manager (R&D)
 
 // icon:calendar[title="Period"]
-*_May 2017 to Present_*
+*_May 2017 to July 2019_*
 -
 // icon:group[title="Employee"]
 {link-e3dOnline}[E3D Skunkworks Ltd. , role="external", window="_blank"] +

@@ -1,8 +1,8 @@
 == Technical Skills
 
-Languages and Specifications:: C, {cpp}(11,14,17), Python, Javascript, Java, C#/.NET, PHP
+Languages and Specifications:: C, {cpp}(11,14,17,20), Python, Javascript, Java, C#/.NET, PHP
 
-Build Systems and dependency managers:: CMake, Premake, Conan.io, vcpkg, npm, yarn, Maven, Gradle
+Build Systems and dependency managers:: CMake, Premake, Conan.io, vcpkg, .NET Core CLI, Nuget, npm, yarn, Maven, Gradle
 
 3D and Games Engines:: Extensive 3D Graphics, games and geometry processing capabilities - OpenGL, OpenGL ES, Vulkan, WebGL, three.js, VR (head-mounted and cave-based), Unreal Engine 4, Ogre3D, Godot Engine, Unity3D
 
@@ -21,6 +21,10 @@ Software Engineering:: Git/SVN, CI/CD (Travis, Jenkins, GitLabCI, appveyor), Git
 Data-intensive processing / Statistics:: Jupyter, iPython, R, SPSS, MatLab, Python Pandas, NumPy, MatPlotLib, Computer Vision (OpenCV), OpenCL / SyCL / CUDA / HPX
 
 ////
+
+Observability, ...
+
+Event Sourcing, event modelling
 
 Making/Fabrication:: 3D printing (FDM, SLS, SLA, Laser Cutting), Milling (woods, plaster, paint), Hand and power tools, Lathes (non-CNC)
 

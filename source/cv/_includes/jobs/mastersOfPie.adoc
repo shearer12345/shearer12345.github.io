@@ -1,0 +1,17 @@
+=== Technical Director
+
+// icon:calendar[title="Period"]
+*_December 2019 to August 2020_*
+-
+// icon:group[title="Employee"]
+{link-mastersOfPie}[Masters Of Pie Ltd. , role="external", window="_blank"] +
+
+Initially Contract-based DevOps Consultant, then moved to take on Technical Director role.
+
+* Built out effective CI/CD capabilities for the team, along with training the team in testing approaches and migrating from Atlassian products (Jira, Bamboo, Confluence) to GitLab. Worked with the team to improve code review processes
+
+* Supported the migration from .NET Framework 4 versions to .NET Standard and .NET core, along with finding/replacing tooling and libraries to allow the migration. Introduced the team to writing documentation for future selves, as well as discussing, agreeing and revisiting the internal ways-of-working
+
+* Engaged at all levels of work, from pair programming and building out CI/CD systems, through to high-level strategic discussions, stakeholder consultations, roadmapping and decision making. Interacted daily with whole team and reported directly to the founders
+
+* Drove the project planning and development for a rewrite of the core engine from the ground up. Developed detailed short-term and long-term roadmaps for this, along with discussions with external partners on future pathways - technical solutioning

@@ -1,6 +1,9 @@
 == Professional Experience
 
-//include::jobs/e3dOnlineConsultant.adoc[]
+
+include::jobs/mastersOfPie.adoc[]
+
+include::jobs/e3dOnlineConsultant.adoc[]
 
 include::jobs/e3dSkunkworks.adoc[]
 
