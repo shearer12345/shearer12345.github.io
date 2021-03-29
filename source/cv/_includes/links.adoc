@@ -3,7 +3,7 @@
 :link-github: https://github.com/shearer12345
 :link-gitlab: https://gitlab.com/scatterdemic
 :link-twitter: https://twitter.com/scatterdemic
-:link-linkedin: https://www.linkedin.com/in/shearer12345
+:link-linkedin: https://www.linkedin.com/in/scatterdemic
 
 //sqorl
 :link-sqork: https://sqork.com

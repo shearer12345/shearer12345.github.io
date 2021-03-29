@@ -1,0 +1,9 @@
+=== Technical Consultant
+
+// icon:calendar[title="Period"]
+*_February 2020 to present_*
+-
+// icon:group[title="Employee"]
+{link-sqork}[Sqork Ltd. , role="external", window="_blank"] +
+
+Independent consultant helping organisations build and scale happy, productive teams. Also providing general direct engineering and technical prototyping services.

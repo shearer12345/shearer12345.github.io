@@ -1,6 +1,6 @@
 == Technical Skills
 
-Languages and Specifications:: C, {cpp}(11,14,17,20), Python, Javascript, Java, C#/.NET, PHP
+Languages and Specifications:: C, {cpp}(11,14,17,20), Python, Javascript, Java, C#/.NET
 
 Build Systems and dependency managers:: CMake, Premake, Conan.io, vcpkg, .NET Core CLI, Nuget, npm, yarn, Maven, Gradle
 
@@ -14,7 +14,7 @@ Databases:: MySQL, Postgres, MongoDB, Cassandra, ElasticSearch, SQLite
 
 Physical Computing:: Arduino/Teensduino, RaspberryPi, AVR, PIC, DMX / MIDI / OSC, Audio, Servo/Stepper Motors, Electronics, Accelerometers
 
-Web / Ops / Infrastructure / System Administration:: Nodejs, Apache, Electron, Flask,  AWS/EC2, Docker, openTracing, Swagger/openAPI, REST, Bare metal deployment (theforeman, PXE), Config Management (salt, puppet, chef), LDAP, DHCP, DNS
+Cloud / Web / Ops / Infrastructure / System Administration:: Nodejs, Apache, Electron, Flask,  AWS/EC2, Docker, openTelemetry, Swagger/openAPI, REST, Bare metal deployment (theforeman, PXE), Config Management (salt, puppet, chef), LDAP, DHCP, DNS
 
 Software Engineering:: Git/SVN, CI/CD (Travis, Jenkins, GitLabCI, appveyor), Github, Atlassian/Bitbucket, Jira, Gitlab
 
