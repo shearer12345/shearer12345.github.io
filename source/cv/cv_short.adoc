@@ -1,5 +1,5 @@
 :author: John Shearer
-:date: September 2016
+:date: April 2023
 :doctitle: {author} PhD BEng
 ifdef::backend-pdf[:notitle:]
 ifdef::backend-pdf[]
