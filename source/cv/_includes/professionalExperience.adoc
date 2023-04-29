@@ -2,9 +2,9 @@
 
 include::jobs/sqork.adoc[]
 
-include::jobs/mastersOfPie.adoc[]
+include::jobs/altium.adoc[]
 
-include::jobs/e3dOnlineConsultant.adoc[]
+include::jobs/mastersOfPie.adoc[]
 
 include::jobs/e3dSkunkworks.adoc[]
 

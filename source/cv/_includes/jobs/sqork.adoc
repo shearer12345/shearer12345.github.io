@@ -1,9 +1,17 @@
-=== Technical Consultant
+=== Technical Consultant / Contractor
 
 // icon:calendar[title="Period"]
-*_February 2020 to present_*
+*_August 2019 to present_*
 -
-// icon:group[title="Employee"]
+// icon:building[title="Director"]
 {link-sqork}[Sqork Ltd. , role="external", window="_blank"] +
 
 Independent consultant helping organisations build and scale happy, productive teams. Also providing general direct engineering and technical prototyping services.
+
+* Large multi-national technology company - Software and Data Engineering Contracting
+* Collaborative VR/XR CAD company - DevOps Consulting & Contracting
+* 3D Printing Manufacturer - Pre-sales Technical Consulting
+* Product Design and Invention Studio - Software and Electronics Consulting
+* Higher Education - Curriculum development and teaching at UK Universities
+* National Charity - Software and Electronics Consulting
+* Startup and Business Consulting Studio - Data Engineering Consulting

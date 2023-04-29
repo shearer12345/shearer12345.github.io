@@ -5,8 +5,12 @@
 :link-twitter: https://twitter.com/scatterdemic
 :link-linkedin: https://www.linkedin.com/in/scatterdemic
 
-//sqorl
+//sqork
 :link-sqork: https://sqork.com
+
+
+//altium
+:link-altium: https://www.altium.com/
 
 //mastersofpie
 :link-mastersOfPie: https://mastersofpie.com

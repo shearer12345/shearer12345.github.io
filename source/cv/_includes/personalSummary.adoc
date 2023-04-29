@@ -1,6 +1,6 @@
 // TODO update personal summar
 
-Hands-on, collaborative, multidisciplined Software Engineering Manager / Technical Director with a solid 15+ year history of innovative and successful projects across a myriad of domains with highly varied hardware and software, collaborating with people from many disciplines (Computer Science, Engineering, Psychology, Music, Film and Media arts).
+Hands-on, collaborative, multidisciplined Software Engineering Manager / Technical Director with a solid 20 year history of innovative and successful projects across a myriad of domains with highly varied hardware and software, collaborating with people from many disciplines (Computer Science, Engineering, Psychology, Music, Film and Media arts).
 
 Focused on bringing best practices to software engineering and project leadership. Highly capable and knowledgable across multiple disciplines, with a deep focus on high-performance {cpp} and 3D (Graphics, and Geometry Processing), with experience in GPGPU (OpenCL, CUDA, hpx, SYCL) and OpenCV.
 

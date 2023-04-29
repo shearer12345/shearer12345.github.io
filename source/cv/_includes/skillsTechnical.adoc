@@ -1,8 +1,8 @@
 == Technical Skills
 
-Languages and Specifications:: C, {cpp}(11,14,17,20), Python, Javascript, Java, C#/.NET
+Languages and Specifications:: C, {cpp}(11,14,17,20), Python, Javascript, PHP, Java, C#/.NET
 
-Build Systems and dependency managers:: CMake, Premake, Conan.io, vcpkg, .NET Core CLI, Nuget, npm, yarn, Maven, Gradle
+Build Systems and dependency managers:: CMake, Premake, Conan.io, vcpkg, .NET Core CLI, Nuget, npm, yarn, Maven, Gradle, Poetry
 
 3D and Games Engines:: Extensive 3D Graphics, games and geometry processing capabilities - OpenGL, OpenGL ES, Vulkan, WebGL, three.js, VR (head-mounted and cave-based), Unreal Engine 4, Ogre3D, Godot Engine, Unity3D
 
@@ -10,15 +10,15 @@ Markup languages etc:: (X)HTML, CSS, XML, JSON, Asciidoc(tor), reStructuredText,
 
 Platforms:: Linux icon:linux[] (Ubuntu Server, Ubuntu, Xubuntu, Fedora, Raspbian), Windows icon:windows[], OS X icon:apple[], Android icon:android[]
 
-Databases:: MySQL, Postgres, MongoDB, Cassandra, ElasticSearch, SQLite
-
+Databases and Big Data:: MySQL, Postgres, MongoDB, Cassandra, ElasticSearch, SQLite, Dremio/Presto/Trino, Pulumi, Apache Arrow/Parquet
+  
 Physical Computing:: Arduino/Teensduino, RaspberryPi, AVR, PIC, DMX / MIDI / OSC, Audio, Servo/Stepper Motors, Electronics, Accelerometers
 
-Cloud / Web / Ops / Infrastructure / System Administration:: Nodejs, Apache, Electron, Flask,  AWS/EC2, Docker, openTelemetry, Swagger/openAPI, REST, Bare metal deployment (theforeman, PXE), Config Management (salt, puppet, chef), LDAP, DHCP, DNS
+Cloud / Web / Ops / Infrastructure / System Administration:: Pulumi, AWS/GCP, Nodejs, Apache, Electron, Flask, Docker, openTelemetry, Swagger/openAPI, REST, Bare metal deployment (theforeman, PXE), Config Management (salt, puppet, ansible, chef), LDAP, DHCP, DNS
 
 Software Engineering:: Git/SVN, CI/CD (Travis, Jenkins, GitLabCI, appveyor), Github, Atlassian/Bitbucket, Jira, Gitlab
 
-Data-intensive processing / Statistics:: Jupyter, iPython, R, SPSS, MatLab, Python Pandas, NumPy, MatPlotLib, Computer Vision (OpenCV), OpenCL / SyCL / CUDA / HPX
+Data-intensive processing / Statistics:: Jupyter, iPython, R, SPSS, MatLab, Python (Pandas, NumPy, MatPlotLib, Pydantic), Computer Vision (OpenCV), OpenCL / SyCL / CUDA / HPX
 
 ////
 

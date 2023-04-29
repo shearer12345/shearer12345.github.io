@@ -6,6 +6,7 @@
 // icon:group[title="Employee"]
 {link-mastersOfPie}[Masters Of Pie Ltd. , role="external", window="_blank"] +
 
+TODO split out
 Initially Contract-based DevOps Consultant, then moved to take on Technical Director role.
 
 * Built out effective CI/CD capabilities for the team, along with training the team in testing approaches and migrating from Atlassian products (Jira, Bamboo, Confluence) to GitLab. Worked with the team to improve code review processes

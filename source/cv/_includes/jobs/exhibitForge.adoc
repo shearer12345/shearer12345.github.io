@@ -4,7 +4,7 @@
 *_January 2010 to May 2018_*
 -
 // icon:building[title="Director"]
-ExhibitForge Ltd. (micro-company)
+ExhibitForge Ltd.
 
 * *Director and main contractor*
 * Provided short-term, reactive maintenance and long-term, planned upgrades for efficiency (energy and maintenance)
