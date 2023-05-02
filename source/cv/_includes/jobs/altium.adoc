@@ -6,6 +6,8 @@
 // icon:group[title="Employee"]
 {link-altium}[Altium Ltd. , role="external", window="_blank"] +
 
-* Data Architecture and Engineering of a replacement data processing pipeline
-  ** ingest, archive, and making available for real-time queries around 100GB / day of new data from myriad sources to the cloud
-//  ** TODO
+Architected a replacement data pipeline to ingest and archive around 100GB/day from myriad sources, whilst making current and historical data available for real-time queries (web and API).
+
+
+* Design was 100% cloud-based and focussed on effective separation of components so that various parts could be updated, replaced, or queried separately.
+* Developed Proof-of-Concepts followed by implementation of production-ready, tested code following best-practices for secure, scalable and observable cloud-based software.
