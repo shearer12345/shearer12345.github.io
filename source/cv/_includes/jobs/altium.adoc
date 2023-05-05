@@ -8,6 +8,5 @@
 
 Architected a replacement data pipeline to ingest and archive around 100GB/day from myriad sources, whilst making current and historical data available for real-time queries (web and API).
 
-
-* Design was 100% cloud-based and focussed on effective separation of components so that various parts could be updated, replaced, or queried separately.
-* Developed Proof-of-Concepts followed by implementation of production-ready, tested code following best-practices for secure, scalable and observable cloud-based software.
+* Created a design that was 100% cloud-based and focussed on effective separation of components so that various parts could be updated, replaced, or queried separately.
+* Successfully developed Proof-of-Concepts followed by implementation of production-ready, tested code following best-practices for secure, scalable and observable cloud-based software.

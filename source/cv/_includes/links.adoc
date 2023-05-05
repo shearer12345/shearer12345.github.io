@@ -16,7 +16,6 @@
 :link-mastersOfPie: https://mastersofpie.com
 
 //e3d
-
 :link-e3dOnline: https://e3d-online.com
 :link-e3dPathio: https://pathio.xyz/
 
@@ -31,9 +30,10 @@
 :link-newcastleUniCultureLab: https://www.ncl.ac.uk/culturelab/
 
 //york
-
 :link-yorkUni: https://www.york.ac.uk/
 
+//exhibitforce
+:link-exhibitforge: https://exhibitforge.com
 
 //projects
 

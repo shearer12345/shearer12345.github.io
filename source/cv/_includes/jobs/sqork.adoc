@@ -1,4 +1,4 @@
-=== Technical Consultant / Contractor
+=== Director
 
 // icon:calendar[title="Period"]
 *_August 2019 to present_*
@@ -6,7 +6,7 @@
 // icon:building[title="Director"]
 {link-sqork}[Sqork Ltd. , role="external", window="_blank"] +
 
-Independent consultant helping organisations build and scale happy, productive teams. Also providing general direct engineering and technical prototyping services.
+Director of independent consultancy helping organisations build and scale happy, productive teams. Also providing general direct engineering and technical prototyping services. Projects include:
 
 * Large multi-national technology company - Software and Data Engineering Contracting
 * Collaborative VR/XR CAD company - DevOps Consulting & Contracting

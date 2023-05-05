@@ -1,4 +1,4 @@
-=== Software Engineering Manager (R&D)
+=== Software Engineering Manager (Research and Development)
 
 // icon:calendar[title="Period"]
 *_May 2017 to July 2019_*
@@ -6,7 +6,11 @@
 // icon:group[title="Employee"]
 {link-e3dOnline}[E3D Skunkworks Ltd. , role="external", window="_blank"] +
 
-Led the development of a ground-breaking, cross-platform 3D printing software product from  inception to public beta with 10,000 registered users using an Agile, DevOps methodology - {link-e3dPathio}[Pathio.xyz , role="external", window="_blank"].
+Led a team of 8 in the development of a ground-breaking, cross-platform 3D printing software product from  inception to public beta with 10,000 registered users using an Agile, DevOps methodology - {link-e3dPathio}[Pathio.xyz , role="external", window="_blank"].
+
+* Designed, architected, coded and scaled a multi-core high-performance 3D printing planning engine. Provided technical expertise across all aspects, with a deep focus on Modern {cpp} and 3D data processing and visualisation
+
+* Researched, developed, implemented and evaluated novel 3D geometry algorithms for 3D printing, with a focus on leveraging existing published work and "_doing the science_" to be confident our work was effective and performant.
 
 * Built the team and ways of working from scratch - hired, managed and mentored cross-functional staff of all abilities with a strong focus on a safe, happy team, achieving high productivity, with continuous improvement of the product, code, tooling, and individuals' capabilities
 
@@ -15,9 +19,5 @@ Led the development of a ground-breaking, cross-platform 3D printing software pr
 * Drove a focus on Equality, Diversity and Inclusion, and guided team to become remote-ready, allowing hiring from a more global pool. Obtained CPD budget for whole team and constructed a team handbook, including on-boarding processes, domain-specific knowledge, and ways-of-working, allowing for smooth and efficient starts for new staff
 
 * Engaged at all levels of work, from pair programming and building out CI/CD systems, through to high-level strategic discussions, stakeholder consultations, roadmapping and decision making. Interacted daily with whole team and reported directly to the directors
-
-* Designed, architected, coded and scaled a multi-core high-performance 3D printing planning engine. Provided technical expertise across all aspects, with a deep focus on Modern {cpp} and 3D data processing and visualisation
-
-* Researched, developed, implemented and evaluated novel 3D geometry algorithms for 3D printing, with a focus on leveraging existing published work and "_doing the science_" to be confident our work was effective and performant.
 
 * Orchestrated a team wide focus on UX, leading to our product being recognised as having excellent UX and UI by users

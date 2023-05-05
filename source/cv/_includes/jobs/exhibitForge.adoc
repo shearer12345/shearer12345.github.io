@@ -4,10 +4,16 @@
 *_January 2010 to May 2018_*
 -
 // icon:building[title="Director"]
-ExhibitForge Ltd.
+{link-exhibitforge}[ExhibitForge Ltd. , role="external", window="_blank"] +
 
 * *Director and main contractor*
+
 * Provided short-term, reactive maintenance and long-term, planned upgrades for efficiency (energy and maintenance)
+
 * Collaborated closely with staff at client sites to ensure their needs were understood and met
+
 * Implemented Server and Client infrastructure, bare metal automated deployment (theforeman, PXE, saltstack), DHCP, DNS, and technical troubleshootings
+
 * Managed quotations, ticket system, finances, taxes, and contractor hiring
+
+// TODO add project examples ???

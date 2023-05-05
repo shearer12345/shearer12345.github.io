@@ -12,7 +12,7 @@
   ** Researched into how more engaging, persuasive, and fun interfaces using on-screen characters can be designed, developed and understood
   ** Developed Interactive Persuasive Agents using 3D Graphics, Computer Vision and AI techniques. Designed and ran empirical studies with large numbers of participants to provide statistical evidence of how Persuasive Agents may provide value
 
-=== BEng Computer Science (2:1)
+=== BEng Computer Science
 
 // icon:calendar[title="Period"]
 *_October 1999 to June 2002_*

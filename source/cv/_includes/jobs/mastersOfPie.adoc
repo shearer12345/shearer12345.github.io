@@ -10,6 +10,6 @@ Supported the migration from .NET Framework 4 versions to .NET Standard and .NET
 
 * Introduced the team to healthy code-review and testing practices, writing documentation for future selves, as well as discussing, agreeing and revisiting internal ways-of-working. 
 
-* Engaged at all levels of work, from pair programming and building out CI/CD systems, through to high-level strategic discussions, stakeholder consultations, roadmapping and decision making. Interacted daily with whole team and reported directly to the founders
+* Engaged at all levels of work, from pair programming and building out CI/CD systems, through to executive-level strategic discussions, stakeholder consultations, roadmapping and decision making. Interacted daily with whole team and reported directly to the founders
 
 * Drove the project planning and development for a rewrite of the core engine, with detailed short-term and long-term roadmaps. Acted as a technical solution architect with external partners on future pathways.
