@@ -1,21 +1,9 @@
-Hands-on, collaborative, multidisciplined Software Engineering Manager / Technical Director with a solid 20 year history of innovative and successful projects across a myriad of domains with highly varied hardware and software, collaborating with people from many disciplines (Computer Science, Engineering, Data Science, Psychology, Music, Film and Media arts, as well as domain specialists).
+I am a hands-on, collaborative, multidisciplined Software Engineering Manager / Technical Director of innovative and successful projects across a myriad of domains. I have a solid 20 year history using highly varied hardware and software, and collaborating with people from many disciplines (Computer Science, Engineering, Data Science, Psychology, Music, Film and Media arts, as well as domain specialists).
 
-Focused on bringing best practices to software engineering and project leadership. Highly capable and knowledgable across multiple disciplines, with a deep focus on high-performance data processing, 3D (Graphics, and Geometry Processing) and cloud-based architectures.
+// TODO Research and Development
 
-Well recognised for positive, inclusive leadership and project management, promoting a caring, human-first, growth mentality that enables team members to reach high level of performance through trust, delegation, participation, empathy and coaching. Passionate about transparency and openness in the work place. Continual focus on facilitating learning of the whole team and developing future leaders.
+I'm focused on bringing best practices to software engineering and project leadership, including transparency and openness in the work place. I am thoroughly capable and knowledgable across multiple disciplines, with a deep focus on high-performance data processing, 3D (Graphics, and Geometry Processing) and cloud-based architectures.
 
-Strong experience in leading complex projects at all levels, through the whole lifecycle and across the whole technical spectrum. Excellent communication skills - high-level strategic discussions and strategic planning with programme managers, product managers, marketing, technical leaders, and executives, as well as with collegues and directly with customers.
+I have been well recognised for positive, inclusive leadership and project management, promoting a caring, human-first, growth mentality that enables team members to reach maximum levels of performance through trust, delegation, participation, empathy and coaching. I have a continual focus on facilitating learning of the whole team and developing future leaders.
 
-
-////
-Extra
-
-* an interdisciplinary, collaborative, maker-builder-developer-researcher
-
-*
-   * "CREDIT - GitLab's six values are Collaboration, Results, Efficiency, Diversity & Inclusion, Iteration, and Transparency, and together they spell the CREDIT we give each other by assuming good intent"
-   * aligned to GitLab's values - https://about.gitlab.com/handbook/values/
-
-
-* * " experience directing mission-critical decisions for teams of 20 senior engineers in growth-stage Internet startups from zero to exit; 15+ years hands-on technical experience in broad stacks of engineering; world-class education in Computer Science, Engineering, Management, Product Design, Entrepreneurship and Human Psychology; "
-////
+My communication skills are excellent and effecgtive at engaging stakeholders at all levels of the business - including executives, programme managers, product managers, marketing, and technical leaders, as well as collegues and directly with customers. I have strong experience in leading complex projects, through the whole lifecycle and across the whole technical spectrum.
