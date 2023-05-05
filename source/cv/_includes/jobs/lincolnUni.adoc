@@ -6,9 +6,10 @@
 // icon:group[title="Employee"]
 {link-lincolnUni}[University of Lincoln , role="external", window="_blank"]
 
-* *Co-op leader of {link-lincolnUniIntLab}[Interactive Technologies Research Group (intLab)]*
 
-* Led team delivering Lincoln's {link-lincolnUniGamesComputing}[Games Computing] taught programme (BSc and MComp) of approximately 300 students.
+Led team delivering Lincoln's {link-lincolnUniGamesComputing}[Games Computing] taught programme (BSc and MComp) of approximately 300 students.
+
+* Co-op leader of {link-lincolnUniIntLab}[Interactive Technologies Research Group (intLab)]
 
 * Engaged in internationally published research focused around “Creative play in public spaces”, using Games Technologies
 
