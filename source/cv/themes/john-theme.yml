@@ -1,0 +1,25 @@
+extends: default
+page:
+  layout: portrait
+  #       [top, right bottom, left]
+  margin: [10mm, 15mm, 10mm, 15mm]
+  size: a4
+base:
+  font_color: #000000
+  font_style: normal
+  font_size: 10.5
+  line_height: 1.2
+heading:
+  line_height: 1
+  margin_top: 8
+  margin_bottom: 0
+# NOTE: list keys don't appear to currently have any effect
+# list:
+#   indent: 25
+#   marker_font_color: FF0000
+#   # NOTE list_item_spacing only applies to list items that do not have complex content
+#   item_spacing: 55
+# description_list:
+#   description_indent: $base_font_size * 2.5
+# outline_list:
+#   indent: $base_font_size * 2.5

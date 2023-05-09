@@ -1,4 +1,5 @@
-I am a hands-on, collaborative, multidisciplined Software Engineering Manager / Technical Director of innovative and successful projects across a myriad of domains. I have a solid 20 year history using highly varied hardware and software, and collaborating with people from many disciplines (Computer Science, Engineering, Data Science, Psychology, Music, Film and Media arts, as well as domain specialists).
+I am a hands-on, collaborative, multidisciplined Software Engineering Manager / Technical Director of innovative and successful projects across a myriad of domains.
+I have a solid 20 year history using highly varied hardware and software, and collaborating with people from many disciplines - Computer Science, Engineering, Data Science, Psychology, Music, Film and Media arts, as well as domain specialists.
 
 // TODO Research and Development
 

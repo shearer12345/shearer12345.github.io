@@ -6,6 +6,6 @@
 // icon:group[title="Employee"]
 {link-newcastleUni}[Newcastle University , role="external", window="_blank"]
 
-* Performed novel research for Unilever PLC on Persuasive Virtual Agents to support healthy life styles - directly related to my (concurrent) PhD research
-* Developed Interactive Persuasive Agents using 3D Graphics, Computer Vision and AI techniques.
-* Designed and ran empirical studies with large numbers of participants to provide statistical evidence of how Persuasive Agents may provide value
+// * Performed novel research for Unilever PLC on Persuasive Virtual Agents to support healthy life styles - directly related to my (concurrent) PhD research
+// * Developed Interactive Persuasive Agents using 3D Graphics, Computer Vision and AI techniques.
+// * Designed and ran empirical studies with large numbers of participants to provide statistical evidence of how Persuasive Agents may provide value

@@ -1,12 +1,10 @@
-=== Director (ExhibitForge Ltd.)
+=== Director
 
 // icon:calendar[title="Period"]
 *_January 2010 to May 2018_*
 -
 // icon:building[title="Director"]
 {link-exhibitforge}[ExhibitForge Ltd. , role="external", window="_blank"] +
-
-* *Director and main contractor*
 
 * Provided short-term, reactive maintenance and long-term, planned upgrades for efficiency (energy and maintenance)
 

@@ -1,6 +1,10 @@
 :author: John Shearer
 :date: April 2023
 :doctitle: {author} PhD BEng
+:pdf-page-size: A4
+:pdf-themesdir: themes
+:pdf-theme: john
+// :pdf-fontsdir: fonts
 ifdef::backend-pdf[:notitle:]
 ifdef::backend-pdf[]
 [discrete]
@@ -19,7 +23,6 @@ endif::[]
 :includedir: _includes
 :sectnums!:
 :imagesdir: ../images
-:pdf-page-size: A4
 
 include::{includedir}/links.adoc[]
 
@@ -38,10 +41,6 @@ include::{includedir}/professionalExperience.adoc[]
 
 include::{includedir}/education.adoc[]
 
-== Publications, Projects, Events and Performances
-
-NOTE: a list of academic publications, projects, events and performances can be supplied on request
-
 <<<
 
 include::{includedir}/skillsTechnical.adoc[]
@@ -49,6 +48,10 @@ include::{includedir}/skillsTechnical.adoc[]
 <<<
 
 include::{includedir}/skillsResearch.adoc[]
+
+== Publications, Projects, Events and Performances
+
+TIP: a list of academic publications, projects, events and performances can be supplied on request
 
 == References
 

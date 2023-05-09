@@ -13,7 +13,7 @@ Led team delivering Lincoln's {link-lincolnUniGamesComputing}[Games Computing] t
 
 * Engaged in internationally published research focused around “Creative play in public spaces”, using Games Technologies
 
-* Supervised post-graduate research students (PhD and MSc). Pastoral support of students across programmes
+* Supervised post-graduate research students (PhD and MSc). Pastoral support of students
 
 * Developed and delivered taught content for UG and PG programmes (Graphics, Games Programming, Game Engine Architectures, Advanced Graphics)
 
