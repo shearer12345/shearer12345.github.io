@@ -1,0 +1,67 @@
+:author: John Shearer
+:doctitle: john-shearer-turntide-cover-letter
+
+:email: shearer12345@gmail.com
+:phone: +44 (0)7703 112 946
+:job-company: ev.energy
+:job-title: Engineering Manager - Connectivity
+:icons: font
+:linkattrs:
+:sectanchors:
+:sectlink:
+:experimental:
+:source-language: asciidoc
+:includedir: _includes
+:sectnums!:
+:!toc:
+:notitle:
+:imagesdir: ../../images
+:pdf-page-size: A4
+
+---
+
+[.text-right]
+Dr. {author} +
+20 Olympia Gardens, Morpeth +
+NE61 1JQ, UK +
+{phone} +
+{email} +
+
+[.text-left]
+{docdate}
+
+*Re: {job-title}*
+
+Dear {job-company} hiring team,
+
+## Why do I want to work for ev.energy?
+
+I am focused on choosing a place to work based on two criteria - that the organisation a) actively works to be a positive environment for the people that work there and b) does something positive for the world and especially in the sustainability sector.
+
+ev.energy meets both those criteria as well as the role looking particularly well suited to my experience and capabilities.
+
+## Letter
+
+I would like to apply for the role of *{job-title}*. I would particularly like to work for a company focused on sustainability and {job-company} really meets that. I especially like how {job-company} presents itself in terms of how you treat the people that work for you - it seems very positive and inclusive.
+
+I'm a polyglot software engineer/lead with experience in multiple domains. I'm particularly focused on helping build happy, productive teams using modern best practices. In practice that means working collaboratively to deliver valuable software frequently using techniques including Continuous Delivery and Continuous Integration, agile human-first multifunction teams, effective technologies and working continually to improve our ways of working.
+
+I am currently coming to the end of some contract and consulting work and looking to move back to a permanent role where I collaborate closely with people day to day. 
+
+I bring with me technical excellence with a strong love of agile and TDD with 20 years of experience in many different domains. In addition to having deep technical capabilities, I am particularly focused on encouraging best practices in Software Engineering - DevOps approaches with attention to enabling, unblocking and coaching team members.
+
+With a caring, human-first leadership approach, I'm experienced working with and managing cross-functional teams, including remote members, across all layers of the technology stack (fullstack). I'm also entirely comfortable working as part of a team in a flatter, peer-peer structure.
+
+I'm confident working closely with client stakeholders and internal team members on all aspects from low-level details right up to strategic and architectural discussions and planning. I'm focused on effectively delivering better value sooner. I'm am experienced working on cloud services, but also on-prem and desktop platforms, as well as with custom sensors and electronics.
+
+I would like to continue growing both technically and as a collaborator/leader, and love working with people to produce great work and happy teams. Working at {job-company} looks to be perfectly aligned with these goals. I'm confident that my mixture of technical skills and my human-led approaches can bring significant value to the {job-company}.
+
+Thank you for your time and consideration. I look forward to discussing further at your convenience.
+
+Kind regards,
+
+
+
+John
+
+---
