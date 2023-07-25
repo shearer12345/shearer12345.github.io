@@ -1,0 +1,61 @@
+:author: John Shearer
+:doctitle: john-shearer-turntide-cover-letter
+
+:email: shearer12345@gmail.com
+:phone: +44 (0)7703 112 946
+:job-company: Turntide
+:job-title: Senior Software Engineer or similar
+:icons: font
+:linkattrs:
+:sectanchors:
+:sectlink:
+:experimental:
+:source-language: asciidoc
+:includedir: _includes
+:sectnums!:
+:!toc:
+:notitle:
+:imagesdir: ../../images
+:pdf-page-size: A4
+
+---
+
+[.text-right]
+Dr. {author} +
+20 Olympia Gardens, Morpeth +
+NE61 1JQ, UK +
+{phone} +
+{email} +
+
+[.text-left]
+{docdate}
+
+*Re: {job-title}*
+
+Dear {job-company} hiring team,
+
+I've seen your ad for both *Senior Embedded Software Engineer* and your more general *Opportunities within Engineering* ad and I am very keen to work with {job-company}. I have significant Software Engineering capabilities. Most of my work has been in more pure-software roles, but I've spent some time in the electronics and embedded space, so it looks as though I would be able to contribute valuably to {job-company}. Most recently I have been contracting on some work relating to schematic and physical layout of electronic components for PCBs.
+
+I would particularly like to work for a company focused on sustainability and {job-company} really meets that. I really like how {job-company} presents itself - particularly the focus on diversity and people as the most important asset. 
+
+I am currently coming to the end of some contract and consulting work and looking to move back to a permanent role where I collaborate closely with people day to day. 
+
+I bring with me technical excellence with a strong love of agile and TDD with 20 years of experience in many different domains. In addition to having deep technical capabilities, I am particularly focused on encouraging best practices in Software Engineering - DevOps approaches with attention to enabling, unblocking and coaching team members.
+
+With a caring, human-first leadership approach, I'm experienced working with and managing cross-functional teams, including remote members, across all layers of the technology stack (fullstack). I'm also entirely comfortable working as part of a team in a flatter, peer-peer structure.
+
+I'm confident working closely with client stakeholders and internal team members on all aspects from low-level details right up to strategic and architectural discussions and planning. I'm focused on effectively delivering better value sooner. I'm am experienced working on cloud services, but also on-prem and desktop platforms, as well as with custom sensors and electronics.
+
+I would like to continue growing both technically and as a collaborator/leader, and love working with people to produce great work and happy teams. Working at {job-company} looks to be perfectly aligned with these goals. I would love to learn more in the embedded space and I'm confident that my mixture of skills on my human-led approaches can bring significant value to the {job-company}.
+
+Thank you for your time and consideration. I look forward to discussing further at your convenience.
+
+Kind regards,
+
+
+
+John
+
+---
+
+Dr. John Shearer
