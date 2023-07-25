@@ -34,11 +34,9 @@ NE61 1JQ, UK +
 
 Dear {job-company} hiring team,
 
-I've seen your ad for both *Senior Embedded Software Engineer* and your more general *Opportunities within Engineering* ad and I am very keen to work with {job-company}. I have significant Software Engineering capabilities. Most of my work has been in more pure-software roles, but I've spent some time in the electronics and embedded space, so it looks as though I would be able to contribute valuably to {job-company}. Most recently I have been contracting on some work relating to schematic and physical layout of electronic components for PCBs.
+I've seen your ad for a *Senior Embedded Software Engineer* and your more general *Opportunities within Engineering* ad and I am very keen to work with {job-company}. I have significant Software Engineering capabilities. Mostly I have worked in more pure-software roles, but I've spent some time in the electronics and embedded space, and I believe I would be able to contribute valuably to {job-company}. Most recently I have been contracting on some work relating to schematic and physical layout of electronic components for PCBs.
 
 I would particularly like to work for a company focused on sustainability and {job-company} really meets that. I really like how {job-company} presents itself - particularly the focus on diversity and people as the most important asset. 
-
-I am currently coming to the end of some contract and consulting work and looking to move back to a permanent role where I collaborate closely with people day to day. 
 
 I bring with me technical excellence with a strong love of agile and TDD with 20 years of experience in many different domains. In addition to having deep technical capabilities, I am particularly focused on encouraging best practices in Software Engineering - DevOps approaches with attention to enabling, unblocking and coaching team members.
 
@@ -57,5 +55,3 @@ Kind regards,
 John
 
 ---
-
-Dr. John Shearer
