@@ -1,5 +1,7 @@
 == Professional Experience
 
+include::jobs/foundry.adoc[]
+
 include::jobs/sqork.adoc[]
 
 include::jobs/altium.adoc[]

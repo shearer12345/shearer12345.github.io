@@ -1,22 +1,32 @@
 == Technical Skills
 
-Languages and Specifications:: C, {cpp}(11,14,17,20), Python, Javascript, PHP, Java, C#/.NET
+Languages and Specifications:: C, {cpp}(11,14,17,20,23), Python, Javascript, PHP, Java, C#/.NET
 
-Build Systems and dependency managers:: CMake, Premake, Conan.io, vcpkg, .NET Core CLI, Nuget, npm, yarn, Maven, Gradle, Poetry
+Build Systems and Dependency Management:: CMake, Conan (1 and 2), vcpkg, Premake, .NET Core CLI, Nuget, npm, yarn, Maven, Gradle, Poetry
+
+C++ Build and Release Engineering:: Compilation/linking and library management, ABI compatibility, cross-platform packaging and release workflows, debugging complex build failures in unfamiliar codebases, reducing developer toil through build and CI optimisation
+
+Compiler Toolchains:: GCC, Clang, MSVC (including platform-specific quirks)
+
+CI/CD and Developer Tooling:: GitLab CI, Jenkins, GitHub Actions, Travis
+
+Shell and Automation Scripting:: bash, zsh, fish, Python automation scripts for build/test/release pipelines
 
 3D and Games Engines:: Extensive 3D Graphics, games and geometry processing capabilities - OpenGL, OpenGL ES, Vulkan, WebGL, three.js, VR (head-mounted and cave-based), Unreal Engine 4, Ogre3D, Godot Engine, Unity3D
 
 Markup languages etc:: (X)HTML, CSS, XML, JSON, Asciidoc(tor), reStructuredText, Markdown
 
-Platforms:: Linux icon:linux[] (Ubuntu Server, Ubuntu, Xubuntu, Fedora, Raspbian), Windows icon:windows[], OS X icon:apple[], Android icon:android[]
+Platforms:: Linux icon:linux[] (CentOS/Rocky, Ubuntu Server, Ubuntu, Xubuntu, Fedora, Raspbian), Windows icon:windows[], OS X/macOS icon:apple[], Android icon:android[]
+
+VFX and Media & Entertainment Ecosystem:: USD/Hydra pipelines, render delegate integration, familiarity with ASWF ecosystem and production VFX software delivery constraints
 
 Databases and Big Data:: MySQL, Postgres, MongoDB, Cassandra, ElasticSearch, SQLite, Dremio/Presto/Trino, Prefect/Apache Airflow, Apache Arrow/Parquet, OpenTelemetry
   
 Physical Computing:: Arduino/Teensduino, RaspberryPi, AVR, PIC, DMX / MIDI / OSC, Audio, Servo/Stepper Motors, Electronics, Accelerometers
 
-Cloud / Web / Ops / Infrastructure / System Administration:: Pulumi, AWS/GCP, Nodejs, Apache, Electron, Flask, Docker, openTelemetry, Swagger/openAPI, REST, Bare metal deployment (theforeman, PXE), Config Management (salt, puppet, ansible, chef), LDAP, DHCP, DNS
+Cloud / Web / Ops / Infrastructure / System Administration:: Pulumi, AWS/GCP, Nodejs, Apache, Electron, Flask, Docker (including devcontainers and Podman), OpenTelemetry, Swagger/OpenAPI, REST, bare metal deployment (theforeman, PXE), config management (salt, puppet, ansible, chef), LDAP, DHCP, DNS, Infrastructure as Code
 
-Software Engineering:: Git/SVN, CI/CD (Travis, Jenkins, GitLabCI, appveyor), Github, Atlassian/Bitbucket, Jira, Gitlab
+Software Engineering:: Git/SVN, TDD, pytest, UI test automation (AppWD), code quality and formatting automation, collaborative code review practices, flow-oriented continuous improvement (DORA/Accelerate)
 
 Data-intensive processing / Statistics:: Jupyter, iPython, R, SPSS, MatLab, Python (Pandas, NumPy, MatPlotLib, Pydantic, PyTest), Computer Vision (OpenCV), OpenCL / SyCL / CUDA / HPX
 

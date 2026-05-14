@@ -8,6 +8,8 @@
 //sqork
 :link-sqork: https://sqork.com
 
+//foundry
+:link-foundry: https://www.foundry.com/
 
 //altium
 :link-altium: https://www.altium.com/

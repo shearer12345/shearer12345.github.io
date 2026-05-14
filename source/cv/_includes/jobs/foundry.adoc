@@ -1,0 +1,22 @@
+=== Lead Software Engineer - LookDev & Lighting   
+
+// icon:calendar[title="Period"]
+*_Oct 2023 to present_*
+-
+// icon:group[title="Employee"]
+{link-foundry}[Foundry Ltd. , role="external", window="_blank"] +
+
+Led a team of 5 engineers on Katana's LookDev & Lighting (Hydra 2/USD) work. I architected and owned critical {cpp} build infrastructure (CMake, Conan), cross-platform CI/CD systems, and modern testing practices, removing friction from the development lifecycle to accelerate feature delivery. I applied flow thinking at every scale: from individual commits and linting automation, through team tooling and mentoring, to Foundry-wide infrastructure initiatives.
+
+* Managed a team of 5 through significant organisational change, onboarded two new technical leads with structured mentoring, developed individuals on their promotion pathways, and carried out structured performance management to a positive outcome. Set and modelled high standards for collaboration, code quality, and engineering practices.
+
+* Led adoption of production-grade UI test automation (AppWD) across Katana and Foundry, building infrastructure, CI integration, guidelines, and training while mentoring QA engineers in Python and test-driven practices. Supported the team in delivering many new tests for local development and CI, alongside a flaky-test stabilisation process; this work was recognised by the VP of Engineering and became a Foundry Technology Objective. It was then owned and extended by teams beyond Katana.
+
+* Designed Tsuba - a pure {cpp} USD Hydra 2 render delegate replacement (CMake/Conan, minimal dependencies, testable-by-design architecture, OpenTelemetry instrumentation) - removing the need for custom renderer vendor plugins. This work demonstrated deep expertise in modern {cpp} practices, dependency management, and architectural thinking.
+
+* Maintained and added Conan recipes and {cpp} build infrastructure (mainly CMake) for a complex VFX software tool with dozens of third-party dependencies, solving ABI compatibility, cross-platform (Linux/Windows) compilation, and compiler toolchain (GCC/MSVC) challenges. Identified and fixed critical build optimisations - reducing developer friction and build-wait times.
+
+* Drove continuous improvement across engineering practices: automatic linting and formatting (100% adoption), GitLab CI/CD enhancements, shell scripting for CI robustness, Docker containerization (devcontainers, podman, graphics pass-through), and working within the ASWF/VFX ecosystem. Consistently identified friction points and designed solutions that scaled across teams.
+
+* Working on embedding observability (with OpenTelemetry) into Katana to expose hidden internal behaviours that slow development and bug fixing. Shaped the deployment approach and infrastructure decisions; established the foundation for a data-centric Foundry initiative.
+
